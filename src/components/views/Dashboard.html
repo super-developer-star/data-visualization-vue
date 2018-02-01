@@ -1,0 +1,51 @@
+<div id="home">
+  <navbar></navbar>
+
+  <div class="main-content">
+    <loader v-show="model.loadingServices.length > 0"></loader>
+    <sidebar></sidebar>
+    <div class="main">
+      <dashboard-summary></dashboard-summary>
+      <multiselect
+        v-model="model.selectedCategories"
+        :options="multiSelectData"
+        :multiple="true"
+        group-values="categories"
+        group-label="sectorname"
+        :close-on-select="false"
+        :hide-selected="false"
+        :allow-empty="false"
+        :searchable="false"
+        :max-height="0"
+        placeholder="Type to search"
+        label="categoryname"
+        track-by="categoryname">
+        <span slot="noResult">Oops! No categories found. Consider changing the search query.</span>
+      </multiselect>
+
+      <div class="page-content gradient-background">
+        <view-header>
+          <span>
+            <i class="fa fa-bar-chart"></i>Redemption Volume: Indexed to Prior Period
+          </span>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true" :svg-elements="['productmovedstackedbardash']"
+                    title="Redemption Volume: Indexed to Prior Period"
+                    csv-data="productmoved" file-name="Dashboard"></download>
+        </view-header>
+        <div class="col-md-6">
+          <bar chart-id="productmovedstackedbardash" group-by-field='redemptionIndex' label-field='Period Legend' :filter-object="productMovedFilter" show-breadcrumb="true"></bar>
+        </div>
+      </div>
+
+      <div class="page-content">
+        <div class="row" style="margin-left: 0; margin-right: 0">
+          <div class="col-md-12">
+            <dynamic-table :category="model.selectedCategories"></dynamic-table>
+          </div>
+        </div>
+      </div>
+
+      <page-footer></page-footer>
+    </div>
+  </div>
+</div>

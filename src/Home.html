@@ -1,0 +1,27 @@
+<div id="landing">
+  <nav class="navbar navbar-home">
+    <div style="display:inline-block">
+      <logo :height="50"></logo>
+    </div>
+  </nav>
+  <div class="home-content__wrapper">
+    <!-- <img src="assets/logo-nch.png" alt="NCH A Valassis Company"> -->
+    <div class="client-login">
+      <h3 class="client-login__title">Client Login</h3>
+      <p class="client-login__description">Visualization of your data is just one click away. Get ready to crunch that data into meaningful intelligence.</p>
+      <form-login @login="login"></form-login>
+    </div>
+  </div>
+  <footer class="home-footer">
+    <p>&copy; 2017, NCH Marketing Services, Inc. All Rights Reserved. JENKINS_BUILDENV v1.0.JENKINS_BUILD_NUMBER</p>
+    <nav class="home-footer__nav">
+      <ul>
+        <!--<li><a href="#/privacy">Privacy Policy</a></li>-->
+        <!-- <li><a @click="showTerms()">Terms of Use</a></li> -->
+      </ul>
+    </nav>
+  </footer>
+  <div class="blackout" @click="hideLoginModal" v-show="showLoginModal()">
+    <login-modal @login="login" :has-error="hasError" :error-message="errorMessage" :hide-login-modal="hideLoginModal"></login-modal>
+  </div>
+</div>

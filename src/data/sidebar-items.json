@@ -1,0 +1,118 @@
+{
+  "_items": [{
+    "id": "dashboard",
+    "name": "Dashboard",
+    "route": "/",
+    "icon": "fa-tachometer",
+    "label": "Home"
+  },
+  {
+    "id": "fave-value",
+    "name": "FaceValue",
+    "route": "/face-value/range",
+    "icon": "fa-dollar",
+    "label": "Face Value",
+    "links": [
+      {
+        "label": "Face value",
+        "icon": "fa-dollar",
+        "route": "/face-value/range"
+      },
+      {
+        "label": "Face Value per unit Redeemed",
+        "icon": "fa-dollar",
+        "route": "/face-value/unit"
+      }
+    ]
+  },
+  {
+    "id": "product-moved",
+    "name": "ProductMoved",
+    "route": "/product-moved",
+    "icon": "fa-cubes",
+    "label": "Products Moved"
+  },
+  {
+    "id": "geographic",
+    "name": "Geographic",
+    "route": "/geographic/bipartite",
+    "icon": "fa-globe",
+    "label": "Geography",
+    "links": [
+      {
+        "label": "Redemption Share by State",
+        "icon": "fa-globe",
+        "route": "/geographic/bipartite"
+      },
+      {
+        "label": "Redemption Volume Percent Change from Prior Period by State",
+        "icon": "fa-globe",
+        "route": "/geographic/state"
+      },
+      {
+        "label": "Redemption Volume Percent Change from Prior Period by Nielsen SCANTRACK Market",
+        "icon": "fa-globe",
+        "route": "/geographic/nielsen"
+      },
+      {
+        "label": "Redemption Volume Percent Change from Prior Period by Nielsen DMA",
+        "icon": "fa-globe",
+        "route": "/geographic/dma"
+      },
+      {
+        "label": "Redemption Volume Percent Change from Prior Period by IRI InfoScan Market",
+        "icon": "fa-globe",
+        "route": "/geographic/iri"
+      }
+
+    ]
+  },
+  {
+    "id": "media",
+    "name": "Media",
+    "route": "/media",
+    "icon": "fa-pie-chart",
+    "label": "Media"
+  },
+  {
+    "id": "class-of-trade",
+    "name": "ClassOfTrade",
+    "route": "/class-of-trade",
+    "icon": "fa-building",
+    "label": "Class of Trade"
+  },
+  {
+    "id": "paperless",
+    "name": "Paperless",
+    "route": "/paperless/facevalue",
+    "icon": "fa-tablet",
+    "label": "Paperless",
+    "links": [
+      {
+        "label": "Face Value",
+        "icon": "fa-dollar",
+        "route": "/paperless/facevalue"
+      },
+      {
+        "label": "Redemption Volume Percent Change from Prior Period by State",
+        "icon": "fa-globe",
+        "route": "/paperless/state"
+      },
+      {
+        "label": "Redemption Volume Percent Change from Prior Period by Nielsen SCANTRACK Market",
+        "icon": "fa-globe",
+        "route": "/paperless/nielsen"
+      },
+      {
+        "label": "Redemption Volume Percent Change from Prior Period by Nielsen DMA",
+        "icon": "fa-globe",
+        "route": "/paperless/dma"
+      },
+      {
+        "label": "Redemption Volume Percent Change from Prior Period by IRI InfoScan Market",
+        "icon": "fa-globe",
+        "route": "/paperless/iri"
+      }
+    ]
+  }]
+}

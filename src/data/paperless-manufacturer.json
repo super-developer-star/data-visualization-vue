@@ -1,0 +1,130 @@
+[
+  {
+    "classoftradecode":1,
+    "classoftrade":"GROCERY STORES",
+    "facevaluerangecode":1,
+    "facevaluerangedescription":"<.40",
+    "totalredemptionsp1":0.034607388,
+    "totalredemptionsp2":0.023827985
+  },
+  {
+    "classoftradecode":2,
+    "classoftrade":"MASS MERCHANDISERS",
+    "facevaluerangecode":3,
+    "facevaluerangedescription":".76 - 1.00",
+    "totalredemptionsp1":0.0050660223,
+    "totalredemptionsp2":0.04629795
+  },
+  {
+    "classoftradecode":2,
+    "classoftrade":"MASS MERCHANDISERS",
+    "facevaluerangecode":2,
+    "facevaluerangedescription":".40 - .75",
+    "totalredemptionsp1":0.101546966,
+    "totalredemptionsp2":0.12264451
+  },
+  {
+    "classoftradecode":2,
+    "classoftrade":"MASS MERCHANDISERS",
+    "facevaluerangecode":1,
+    "facevaluerangedescription":"<.40",
+    "totalredemptionsp1":0.004785689,
+    "totalredemptionsp2":0.005127945
+  },
+  {
+    "classoftradecode":1,
+    "classoftrade":"GROCERY STORES",
+    "facevaluerangecode":3,
+    "facevaluerangedescription":".76 - 1.00",
+    "totalredemptionsp1":0.44482002,
+    "totalredemptionsp2":0.39090976
+  },
+  {
+    "classoftradecode":3,
+    "classoftrade":"DRUG STORES",
+    "facevaluerangecode":3,
+    "facevaluerangedescription":".76 - 1.00",
+    "totalredemptionsp1":0.020438045,
+    "totalredemptionsp2":0.019819
+  },
+  {
+    "classoftradecode":5,
+    "classoftrade":"OTHER OUTLET",
+    "facevaluerangecode":2,
+    "facevaluerangedescription":".40 - .75",
+    "totalredemptionsp1":0.04672179,
+    "totalredemptionsp2":0.018429061
+  },
+  {
+    "classoftradecode":3,
+    "classoftrade":"DRUG STORES",
+    "facevaluerangecode":2,
+    "facevaluerangedescription":".40 - .75",
+    "totalredemptionsp1":0.007908151,
+    "totalredemptionsp2":0.012406197
+  },
+  {
+    "classoftradecode":1,
+    "classoftrade":"GROCERY STORES",
+    "facevaluerangecode":2,
+    "facevaluerangedescription":".40 - .75",
+    "totalredemptionsp1":0.30383745,
+    "totalredemptionsp2":0.30558398
+  },
+  {
+    "classoftradecode":5,
+    "classoftrade":"OTHER OUTLET",
+    "facevaluerangecode":3,
+    "facevaluerangedescription":".76 - 1.00",
+    "totalredemptionsp1":0.029600188,
+    "totalredemptionsp2":0.010525618
+  },
+  {
+    "classoftradecode":5,
+    "classoftrade":"OTHER OUTLET",
+    "facevaluerangecode":1,
+    "facevaluerangedescription":"<.40",
+    "totalredemptionsp1":6.6829444E-4,
+    "totalredemptionsp2":2.6284318E-4
+  },
+  {
+    "classoftradecode":2,
+    "classoftrade":"MASS MERCHANDISERS",
+    "facevaluerangecode":4,
+    "facevaluerangedescription":"1.00 +",
+    "totalredemptionsp1":0.0,
+    "totalredemptionsp2":3.5671575E-5
+  },
+  {
+    "classoftradecode":5,
+    "classoftrade":"OTHER OUTLET",
+    "facevaluerangecode":4,
+    "facevaluerangedescription":"1.00 +",
+    "totalredemptionsp1":0.0,
+    "totalredemptionsp2":4.0615528E-4
+  },
+  {
+    "classoftradecode":1,
+    "classoftrade":"GROCERY STORES",
+    "facevaluerangecode":4,
+    "facevaluerangedescription":"1.00 +",
+    "totalredemptionsp1":0.0,
+    "totalredemptionsp2":0.040962856
+  },
+  {
+    "classoftradecode":3,
+    "classoftrade":"DRUG STORES",
+    "facevaluerangecode":4,
+    "facevaluerangedescription":"1.00 +",
+    "totalredemptionsp1":0.0,
+    "totalredemptionsp2":0.0026428255
+  },
+  {
+    "classoftradecode":3,
+    "classoftrade":"DRUG STORES",
+    "facevaluerangecode":1,
+    "facevaluerangedescription":"<.40",
+    "totalredemptionsp1":0.0,
+    "totalredemptionsp2":1.1765361E-4
+  }
+]

@@ -1,0 +1,18 @@
+<div class="dynamic-table">
+  <div class="content-header row">
+    <span class="title no-padding">
+      Redemption Share by Media
+    </span>
+
+    <download pdf-enabled="false" csv-enabled="true" png-enabled="false"
+              :csv-data="'redemptionTable'"
+              :title="'Redemption Share by Media'"
+              :file-name="'Dashboard Table'"></download>
+  </div>
+  <div class="table-content" v-if="Object.keys(selectedCategories).length > 0">
+    <table-content :categories="selectedCategories"></table-content>
+  </div>
+  <div class="table-content" v-else="">
+    <p>No Filter</p>
+  </div>
+</div>

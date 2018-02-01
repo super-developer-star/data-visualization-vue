@@ -1,0 +1,54 @@
+<div id="home">
+  <navbar></navbar>
+  <div class="main-content">
+    <sidebar></sidebar>
+    <div class="main">
+      <loader v-show="model.loadingServices.length > 0"></loader>
+      <dashboard-summary></dashboard-summary>
+
+      <div class='page-content gradient-background'  v-if="view == 'bipartite'">
+        <view-header>
+          <span>
+            <i class="fa fa-globe"></i>Geography: Redemption Share by State
+          </span>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true" :svg-elements="['bipartiteGraph']"
+                    :title="'Geography: Redemption Share by State'"
+                    :file-name="'Geographic'"></download>
+        </view-header>
+
+        <bipartite></bipartite>
+      </div>
+
+      <div class="page-content" v-if="view == 'state'">
+
+        <view-header>
+          <span>
+            <i class="fa fa-globe"></i>Geography: Redemption Volume Percent Change from Prior Period by State
+          </span>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true" :svg-elements="['geographicSingleManufacturer', 'geographicComparables']"
+                    :title="'Geography: Redemption Volume Percent Change from Prior Period by State'"
+                    :file-name="'Geographic'"></download>
+        </view-header>
+
+        <div class="row" style="margin-left: 0; margin-right: 0">
+          <div class="col-md-6">
+            <geo :title="model.manufacturer.name" geo-id="geographicSingleManufacturer"></geo>
+          </div>
+          <div class="col-md-6">
+            <geo title="Comparables" geo-id="geographicComparables"></geo>
+          </div>
+        </div>
+
+      </div>
+
+      <market-data market-type="nielsen" v-if="view == 'nielsen'" :view="view"></market-data>
+
+      <market-data market-type="iri" v-if="view == 'iri'" :view="view"></market-data>
+
+      <market-data market-type="dma" v-if="view == 'dma'" :view="view"></market-data>
+
+      <page-footer></page-footer>
+    </div>
+  </div>
+
+</div>

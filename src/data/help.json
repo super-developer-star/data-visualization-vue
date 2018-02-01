@@ -1,0 +1,373 @@
+{
+   "version":1,
+   "sections":[
+  {
+    "id": 1,
+    "sort": 1,
+    "date": "8/7/2017",
+    "title": "Home",
+    "msg": "The home page of BEACON encountered upon login, which shows an overview of Period Over Period redemption volume trends and redemption shares by media for selected criteria.",
+    "": ""
+  },
+  {
+    "id": 2,
+    "sort": 2,
+    "date": "8/7/2017",
+    "title": "Quarter Over Quarter",
+    "msg": "A comparison of redemption data in one completed quarter timeframe verses another completed quarter timeframe.",
+    "": ""
+  },
+  {
+    "id": 3,
+    "sort": 3,
+    "date": "8/7/2017",
+    "title": "Month Over Month",
+    "msg": "A comparison of redemption data in one completed month timeframe verses another completed month timeframe.",
+    "": ""
+  },
+  {
+    "id": 4,
+    "sort": 4,
+    "date": "8/7/2017",
+    "title": "Week Over Week",
+    "msg": "A comparison of redemption data in one completed week timeframe verses another completed week timeframe.",
+    "": ""
+  },
+  {
+    "id": 5,
+    "sort": 5,
+    "date": "8/7/2017",
+    "title": "Segment",
+    "msg": "The highest level differentiating product types in the Consumer Package Goods (CPG) industry. There are two Segments: Food and Non-Food.",
+    "": ""
+  },
+  {
+    "id": 6,
+    "sort": 6,
+    "date": "8/7/2017",
+    "title": "Sector",
+    "msg": "In the NCH Product Category Hierarchy, sectors are mutually exclusive subsets of the CPG Food and Non-Food segments, generally reflecting the major departments within a retail store. The Sectors are: Beverages, Dry Grocery, Frozen Foods, Refrigerated Foods, Household Goods & General Merchandise, OTC Products, Personal Care & Hygiene, and three cross-sectors: Food, Non-Food and Food & Non-Food.",
+    "": ""
+  },
+  {
+    "id": 7,
+    "sort": 7,
+    "date": "8/7/2017",
+    "title": "Cross-Sector",
+    "msg": "When a coupon savings is offered for more than one sector. Example: \"Buy milk (Beverage) and cereal (Dry Grocery) - save $1.00.",
+    "": ""
+  },
+  {
+    "id": 8,
+    "sort": 8,
+    "date": "8/7/2017",
+    "title": "Category",
+    "msg": "In the NCH Product Category Hierarchy, A Category is a subset of a Sector, each consisting of a particular group of related yet distinct products.  Examples of a Category are: Juice, Breakfast Foods - Shelf Stable, Ice Cream & Frozen Yogurt, Household Cleaners & Supplies, Health Aids & Remedies and Hair Care, among many others.",
+    "": ""
+  },
+  {
+    "id": 9,
+    "sort": 9,
+    "date": "8/7/2017",
+    "title": "Cross-Category",
+    "msg": "Coupon savings is offered on more than one category. Example: \"buy shampoo and body lotion - save $1.00.",
+    "": ""
+  },
+  {
+    "id": 10,
+    "sort": 10,
+    "date": "8/7/2017",
+    "title": "Category Filter",
+    "msg": "A filter on each page of BEACON that allows the user to select a single category or multiple categories within a single sector.",
+    "": ""
+  },
+  {
+    "id": 11,
+    "sort": 11,
+    "date": "8/7/2017",
+    "title": "Period Legend",
+    "msg": "Within period-over-period comparative bar charts, the Period Legend displays which bar color represents prior time period redemption, and which bar color represents current time period redemption.  The Period Legend also displays the definitions of the two selected time periods.",
+    "": ""
+  },
+  {
+    "id": 12,
+    "sort": 12,
+    "date": "8/7/2017",
+    "title": "Comparables",
+    "msg": "Aggregated redemption data from other manufacturers representing the same category or categories as those selected by the user.",
+    "": ""
+  },
+  {
+    "id": 13,
+    "sort": 13,
+    "date": "8/7/2017",
+    "title": "Face Value Redeemed",
+    "msg": "Face Value Redeemed is the total amount of savings a consumer receives when a coupon is redeemed.",
+    "": ""
+  },
+  {
+    "id": 14,
+    "sort": 14,
+    "date": "8/7/2017",
+    "title": "Face Value Redeemed Per Unit",
+    "msg": "Face Value Redeemed Per Unit is the total amount of savings a consumer receives for each product purchased when a coupon is redeemed.  Calculated by dividing the offer face value redeemed by the purchase requirement.",
+    "": ""
+  },
+  {
+    "id": 15,
+    "sort": 15,
+    "date": "8/7/2017",
+    "title": "Redemption Share By Media",
+    "msg": "The share of coupons redeemed for a specific media.  Calculated as: The number of coupons redeemed for a specific media divided by the total number of coupons redeemed across all media.",
+    "": ""
+  },
+  {
+    "id": 16,
+    "sort": 16,
+    "date": "8/7/2017",
+    "title": "Redemption Share By Offer Type",
+    "msg": "The share of coupons redeemed matching a specific offer type. Calculated as: The number of coupons redeemed for a specific offer type divided by the total number of coupons redeemed across all offer types.",
+    "": ""
+  },
+  {
+    "id": 17,
+    "sort": 17,
+    "date": "8/7/2017",
+    "title": "Redemption Share By State",
+    "msg": "The share of coupons redeemed in a specific state.  Calculated as: The number of coupons redeemed in a specific state divided by the total number of coupons redeemed nationally.",
+    "": ""
+  },
+  {
+    "id": 18,
+    "sort": 18,
+    "date": "8/7/2017",
+    "title": "Redemption Share By Category",
+    "msg": "The share of coupons redeemed for a specific category.  Calculated as: The number of coupons redeemed for a specific category divided by the total number of coupons redeemed across all categories.",
+    "": ""
+  },
+  {
+    "id": 19,
+    "sort": 19,
+    "date": "8/7/2017",
+    "title": "Redemption Share By Class Of Trade",
+    "msg": "The share of coupons redeemed in a specific class of trade.  Calculated as: The number of coupons redeemed in a specific class of trade divided by the number of total coupons redeemed across all classes of trade.",
+    "": ""
+  },
+  {
+    "id": 20,
+    "sort": 20,
+    "date": "8/7/2017",
+    "title": "Media",
+    "msg": "The method by which a coupon is distributed into the marketplace. Can include: FSI, HOEC, Print @ Home, Military, Other Paper, and Paperless.",
+    "": ""
+  },
+  {
+    "id": 21,
+    "sort": 21,
+    "date": "8/7/2017",
+    "title": "FSI",
+    "msg": "FSI stands for Free-Standing Insert.  It is a type of paper media that contains coupons that appear in four-color, pre-printed advertisements in single or multiple page formats. Free-Standing Inserts are typically inserted into a newspaper or shared mail package.",
+    "": ""
+  },
+  {
+    "id": 22,
+    "sort": 22,
+    "date": "8/7/2017",
+    "title": "HOEC",
+    "msg": "HOEC stands for Handout Electronic Checkout.  It is a type of paper media where coupons are dispensed at retail stores through their third-party sponsors via an electronic device at checkout (point-of-sale).",
+    "": ""
+  },
+  {
+    "id": 23,
+    "sort": 23,
+    "date": "8/7/2017",
+    "title": "Print@Home",
+    "msg": "Print@Home stands for Print at Home.  It is a type of paper media where coupons are  delivered via the internet and printed from a computer.",
+    "": ""
+  },
+  {
+    "id": 24,
+    "sort": 24,
+    "date": "8/7/2017",
+    "title": "Military",
+    "msg": "Military represents all types of military paper coupon media formats that are distributed to the armed forces.",
+    "": ""
+  },
+  {
+    "id": 25,
+    "sort": 25,
+    "date": "8/7/2017",
+    "title": "Other Paper",
+    "msg": "Other Paper represents all other paper coupons that are not classified as an Free-Standing Insert, Handout Electronic Checkout, Military or a Print at Home. Examples of Other Paper coupon media include Direct Mail, Handouts In-Store, Magazine, On-Pack, Instant Redeemable, In-Pack, etc.",
+    "": ""
+  },
+  {
+    "id": 26,
+    "sort": 26,
+    "date": "8/7/2017",
+    "title": "Paperless",
+    "msg": "Paperless is a type of media where coupons are distributed without the use of paper. They can either be downloaded to retailer loyalty cards or alternative ID, such as a consumer's phone number.",
+    "": ""
+  },
+  {
+    "id": 27,
+    "sort": 27,
+    "date": "8/7/2017",
+    "title": "Products Moved",
+    "msg": "Products Moved is the number of units (buy quantity plus free quantity) moved per coupon multiplied by the number of coupons redeemed. Calculated as: Units Moved Per Coupon x Total Number of Coupons Redeemed",
+    "": ""
+  },
+  {
+    "id": 28,
+    "sort": 28,
+    "date": "8/7/2017",
+    "title": "Geography",
+    "msg": "Geography represents the state or market in which stores exist and coupons are redeemed.",
+    "": ""
+  },
+  {
+    "id": 29,
+    "sort": 29,
+    "date": "8/7/2017",
+    "title": "Index",
+    "msg": "Index is a measurement of change in coupon redemption volume for one time period versus a prior time period, with the prior time period always represented with an index of 100.  The index will be greater than 100 if volume has grown in one time period compared to the prior period, or less than 100 if volume has declined.  Calculated as: (Current time period coupons redeemed divided by the prior period coupons redeemed) multiplied by 100.",
+    "": ""
+  },
+  {
+    "id": 30,
+    "sort": 30,
+    "date": "8/7/2017",
+    "title": "Offer Type",
+    "msg": "Offer Type is the classification of a purchase requirement for an offer. Can include: Buy 1 Get 0, Buy 2 Get 0, Buy 3 Get 0, Buy 4+ Get 0, Buy 1+ Get 1+, and Free.",
+    "": ""
+  },
+  {
+    "id": 31,
+    "sort": 31,
+    "date": "8/7/2017",
+    "title": "Buy 1 Get 0",
+    "msg": "Offer type that indicates the coupon has a purchase requirement of 1 and a free quantity of 0.",
+    "": ""
+  },
+  {
+    "id": 32,
+    "sort": 32,
+    "date": "8/7/2017",
+    "title": "Buy 2 Get 0",
+    "msg": "Offer type that indicates the coupon has a purchase requirement of 2 and a free quantity of 0.",
+    "": ""
+  },
+  {
+    "id": 33,
+    "sort": 33,
+    "date": "8/7/2017",
+    "title": "Buy 3 Get 0",
+    "msg": "Offer type that indicates the coupon has a purchase requirement of 3 and a free quantity of 0.",
+    "": ""
+  },
+  {
+    "id": 34,
+    "sort": 34,
+    "date": "8/7/2017",
+    "title": "Buy 4+ Get 0",
+    "msg": "Offer type that indicates the coupon has a purchase requirement of 4 or more and a free quantity of 0.",
+    "": ""
+  },
+  {
+    "id": 35,
+    "sort": 35,
+    "date": "8/7/2017",
+    "title": "Buy 1+ Get 1+",
+    "msg": "Offer type that indicates the coupon has a purchase requirement of 1 or more and a free quantity of 1 or more.",
+    "": ""
+  },
+  {
+    "id": 36,
+    "sort": 36,
+    "date": "8/7/2017",
+    "title": "Free",
+    "msg": "Offer type that indicates that the coupon is for a completely free product.",
+    "": ""
+  },
+  {
+    "id": 37,
+    "sort": 37,
+    "date": "8/7/2017",
+    "title": "Percent Change by Market",
+    "msg": "Percent Change by Market represents the degree of change over time. Calculated as: (Current time period coupons redeemed minus prior period coupons redeemed) divided by (Prior period coupons redeemed) multiplied by 100.",
+    "": ""
+  },
+  {
+    "id": 38,
+    "sort": 38,
+    "date": "8/7/2017",
+    "title": "Nielsen SCANTRACK® Market",
+    "msg": "A geographical market as defined by the Nielsen Company, covering major media markets.",
+    "": ""
+  },
+  {
+    "id": 39,
+    "sort": 39,
+    "date": "8/7/2017",
+    "title": "IRI InfoScan® Market",
+    "msg": "A geographical market as defined by Information Resources, Inc. (IRI), covering major media markets.",
+    "": ""
+  },
+  {
+    "id": 40,
+    "sort": 40,
+    "date": "8/7/2017",
+    "title": "DMA Market",
+    "msg": "Designated Market Area is the geographic areas in the United States in which local television viewing is measured by the Nielsen Company, covering all areas of the United States.",
+    "": ""
+  },
+  {
+    "id": 41,
+    "sort": 41,
+    "date": "8/7/2017",
+    "title": "Class Of Trade",
+    "msg": "Class of Trade represents a group of retail stores. Classes of Trade are Grocery, Drug, Mass, Military and Other.  Examples of types of retail stores that are grouped under Other include Convenience Stores, Variety/Discount Stores (Dollar Stores), Pet Stores etc.",
+    "": ""
+  },
+  {
+    "id": 42,
+    "sort": 42,
+    "date": "8/7/2017",
+    "title": "Grocery",
+    "msg": "Grocery represents retail stores that specialize in selling food and non-food items.",
+    "": ""
+  },
+  {
+    "id": 43,
+    "sort": 43,
+    "date": "8/7/2017",
+    "title": "Drug",
+    "msg": "Drug represents retail stores that specialize in selling over-the-counter medicines, health and beauty care, as well as, prescription drugs. These retail stores may also provide additional products, such as food or household goods; however, they may have limited quantities and selections.",
+    "": ""
+  },
+  {
+    "id": 44,
+    "sort": 44,
+    "date": "8/7/2017",
+    "title": "Mass",
+    "msg": "Mass represents high-volume retail stores that offer a wide assortment of food and non-food items. Supercenters are included as well.",
+    "": ""
+  },
+  {
+    "id": 45,
+    "sort": 45,
+    "date": "8/7/2017",
+    "title": "Military",
+    "msg": "Military represents retail stores operated by the Army and Air Force Exchange Service within the confines of a military base.",
+    "": ""
+  },
+  {
+    "id": 46,
+    "sort": 46,
+    "date": "8/7/2017",
+    "title": "Other",
+    "msg": "Other represents all other retail stores that are not classified as Grocery, Mass, Drug, or Military. Examples of types of retail stores that are grouped under Other include Convenience Stores, Variety/Discount Stores (Dollar Stores), Pet Stores etc.",
+    "": ""
+  }
+ ]
+}

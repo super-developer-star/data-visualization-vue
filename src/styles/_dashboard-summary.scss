@@ -1,0 +1,152 @@
+.summary {
+  background-color: #69797d;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.summary__select {
+  width: 250px;
+  height: 35px;
+  padding: 0 10px;
+  border: 1px solid #eee;
+}
+
+.summary__block {
+    // flex-grow: 0;
+    padding: 0 10px;
+    // position: relative;
+}
+
+// .summary__block-button {
+//   flex-grow: 0;
+// }
+
+.summary__title {
+    font-family: 'proxima_novaregular';
+    text-transform: uppercase;
+    font-size: 1em;
+    color: #eee;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.switch > [type="checkbox"] {
+    display: block;
+}
+
+.summary__block-switch {
+  min-width: 180px;
+}
+
+.summary__button {
+    -webkit-appearance: none;
+    border-radius: 5px;
+    background-color: $blue;
+    color: $white;
+    box-shadow: none;
+    border: 2px solid #eee;
+    height: 35px;
+    min-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    // margin-top: 25px;
+
+    .fa {
+        position: relative;
+        top: 1px;
+        font-size: 16px;
+        padding-right: 5px;
+    }
+}
+
+.switch {
+  position: relative;
+  display: block;
+  vertical-align: top;
+  width: 150px;
+  height: 35px;
+  padding: 3px;
+  margin: 5px auto;
+  background-color: $white;
+  border-radius: 5px;
+  // cursor: pointer;
+}
+
+.switch__input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  // z-index: 20;
+  opacity: 0;
+}
+
+.switch__label {
+  left: 0;
+  top: 0;
+  position: absolute;
+  display: block;
+  height: inherit;
+  width: 100%;
+  text-transform: uppercase;
+  background: transparent;
+  border-radius: 5px;
+  overflow: hidden;
+  font-weight: 600;
+  transition: opacity .15s ease-out, background .15s ease-out;
+  text-align: center;
+  font-size: 18px;
+
+  &:before,
+  &:after {
+    content: '';
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    transition: inherit;
+    top: 0;
+    padding-top: 3px;
+    background-color: transparent;
+    display: block;
+    font-family: NCH;
+    line-height: 1;
+    font-weight: 300;
+    font-size: 2.5rem;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    color: $grey;
+    border-radius: 5px;
+    border: 2px solid $white;
+  }
+
+  &:before {
+    content: '\0042';
+    left: 0;
+    color: $white;
+    background-color: $blue;
+    border-right-width: 1px;
+  }
+
+  &:after {
+    // replace with more relavant icon
+    content: '\0041';
+    color: $grey;
+    background-color: $light-grey;
+    // opacity: 0;
+    left: 50%;
+    border-left-width: 1px;
+  }
+}
+
+.switch__input:checked + .switch__label {
+  &:before {
+    background-color: $light-grey;
+    color: $grey;
+  }
+
+  &:after {
+    background-color: $blue;
+    color: $white;
+  }
+}

@@ -1,0 +1,127 @@
+<div id="home">
+  <navbar></navbar>
+  <div class="main-content">
+    <sidebar></sidebar>
+    <div class="main">
+      <loader v-show="model.loadingServices.length > 0"></loader>
+      <dashboard-summary></dashboard-summary>
+
+      <div class="page-content gradient-background" v-if="view == 'facevalue'">
+        <view-header>
+          <span>
+            <i class="fa fa-2x fa-dollar"></i>Paperless: Face Value Redeemed
+          </span>
+          &nbsp;&nbsp; <i class="fa fa-lock fa-2x lock" aria-hidden="true"
+                          @click="onUnlock()" v-if="lock.active"></i>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true"
+                    :svg-elements="['paperlessfacevaluestackedbar', 'paperlessfacevaluepie']"
+                    :title="'Paperless: Face Value Redeemed'"
+                    :csv-data="'mediaType'"
+                    :file-name="'Paperless'"
+          ></download>
+        </view-header>
+
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <stacked-bar chart-id="paperlessfacevaluestackedbar" group-by-field='facevaluePaperless' label-field='Face Value Ranges'
+                       :lock="lock" :filter-object="facevalueFilter"></stacked-bar>
+        </div>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <pie chart-id="paperlessfacevaluepie" group-by-field='classoftradePaperless' label-field='Class of Trade' :lock="lock"
+               :manufacturer-code="model.manufacturer.code" :filter-object="facevalueFilter" title="Redemption Share by Class of Trade"></pie>
+        </div>
+      </div>
+
+      <div class="page-content gradient-background" v-if="view == 'state'">
+        <view-header>
+          <span>
+            <i class="fa fa-2x fa-globe paperless"></i>Paperless: Geography: Redemption Volume Percent Change from Prior Period by State
+          </span>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true"
+                    :svg-elements="['paperlessGeographicSingleManufacturer', 'paperlessGeographicComparables']"
+                    :title="'Paperless: Geography: Redemption Volume Percent Change from Prior Period by State'"
+                    :csv-data="'mediaType'"
+                    :file-name="'Paperless'"
+          ></download>
+        </view-header>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <geo :title="model.manufacturer.name" geo-id="paperlessGeographicSingleManufacturer" :is-paperless="true"></geo>
+        </div>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <geo title="Comparables" geo-id="paperlessGeographicComparables" :is-paperless="true"></geo>
+        </div>
+      </div>
+
+      <div class="page-content gradient-background" v-if="view == 'nielsen'">
+        <view-header>
+          <span>
+            <i class="fa fa-2x fa-globe paperless"></i>Paperless: Geography: Redemption Volume Percent Change from Prior Period by Nielsen SCANTRACK&reg; Market
+          </span>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true"
+                    :svg-elements="[manufacturerGeoId, comparableGeoId]"
+                    :title="'Paperless: Geography: Redemption Volume Percent Change from Prior Period by Nielsen SCANTRACK&reg; Market'"
+                    :csv-data="'mediaType'"
+                    :file-name="'Paperless'"
+          ></download>
+        </view-header>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <nielsen-market :title="model.manufacturer.name" :geo-id="manufacturerGeoId"
+                          :manufacturer-code="model.manufacturer.code" :market-type="view" :show-breadcrumb="true"
+                          :is-paperless="true"></nielsen-market>
+        </div>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <nielsen-market title="Comparables" :geo-id="comparableGeoId" manufacturer-code="ALL"
+                          :market-type="view" :is-paperless="true"></nielsen-market>
+        </div>
+      </div>
+
+      <div class="page-content gradient-background" v-if="view == 'dma'">
+        <view-header>
+          <span>
+            <i class="fa fa-2x fa-globe paperless"></i>Paperless: Geography: Redemption Volume Percent Change from Prior Period by Nielsen DMA
+          </span>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true"
+                    :svg-elements="[manufacturerGeoId, comparableGeoId]"
+                    :title="'Paperless: Geography: Redemption Volume Percent Change from Prior Period by Nielsen DMA'"
+                    :csv-data="'mediaType'"
+                    :file-name="'Paperless'"
+          ></download>
+        </view-header>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <nielsen-market :title="model.manufacturer.name" :geo-id="manufacturerGeoId"
+                          :manufacturer-code="model.manufacturer.code" :market-type="view" :show-breadcrumb="true"
+                          :is-paperless="true"></nielsen-market>
+        </div>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <nielsen-market title="Comparables" :geo-id="comparableGeoId" manufacturer-code="ALL"
+                          :market-type="view" :is-paperless="true"></nielsen-market>
+        </div>
+      </div>
+
+      <div class="page-content gradient-background" v-if="view == 'iri'">
+        <view-header>
+          <span>
+            <i class="fa fa-2x fa-globe paperless"></i>Paperless: Geography: Redemption Volume Percent Change from Prior Period by IRI InfoScan&reg; Market
+          </span>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true"
+                    :svg-elements="[manufacturerGeoId, comparableGeoId]"
+                    :title="'Paperless: Geography: Redemption Volume Percent Change from Prior Period by IRI InfoScan&reg; Market'"
+                    :csv-data="'mediaType'"
+                    :file-name="'Paperless'"
+          ></download>
+        </view-header>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <nielsen-market :title="model.manufacturer.name" :geo-id="manufacturerGeoId"
+                          :manufacturer-code="model.manufacturer.code" :market-type="view" :show-breadcrumb="true"
+                          :is-paperless="true"></nielsen-market>
+        </div>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <nielsen-market title="Comparables" :geo-id="comparableGeoId" manufacturer-code="ALL"
+                          :market-type="view" :is-paperless="true"></nielsen-market>
+        </div>
+      </div>
+
+      <page-footer></page-footer>
+    </div>
+  </div>
+
+</div>

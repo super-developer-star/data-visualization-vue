@@ -1,0 +1,16 @@
+<li :class="{ active: $router.currentRoute.name === item.name }" class="sidebar__nav-item" :id="item.id">
+  <router-link :to="item.route">
+    <i :class="'fa fa-2x ' + item.icon" aria-hidden="true"></i>
+    <span class="sidebar-link">{{item.label}}</span>
+  </router-link>
+  <ul v-if="item.links" :class="{ active: $router.currentRoute.name === item.name }" class="sidebar__nav-submenu">
+    <li v-for="sub in item.links" class="sidebar__nav-submenu-item">
+      <router-link :to="sub.route">
+        <i :class="'fa fa-2x ' + sub.icon" aria-hidden="true"></i>
+        <span v-if="sub.route === '/geographic/nielsen' || sub.route === '/paperless/nielsen'">Redemption Volume Percent Change from Prior Period by Nielsen SCANTRACK&reg; Market</span>
+        <span v-else-if="sub.route === '/geographic/iri' || sub.route === '/paperless/iri'">Redemption Volume Percent Change from Prior Period by IRI InfoScan&reg; Market</span>
+        <span v-else>{{sub.label}}</span>
+      </router-link>
+    </li>
+  </ul>
+</li>

@@ -1,0 +1,10 @@
+<form class="client-login__form form-home" id="form-login">
+  <div class="form-home__input">
+    <input v-model="user.name" type="text" placeholder="Username">
+    <input v-model="user.password" type="password" placeholder="Password">
+  </div>
+  <div class="form-home__submit">
+    <button @click.prevent="submitLogin" type="submit"v-bind:class="{disabled:model.loggingin}" :disabled="model.loggingin" > <span v-if="model.loggingin">
+    	<i class='fa fa-spinner fa-spin '></i> Processing...</span><span v-else>Login</span></button>
+  </div>
+</form>

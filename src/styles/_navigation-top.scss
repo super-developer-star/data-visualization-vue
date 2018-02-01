@@ -1,0 +1,73 @@
+// Top navigation
+// Hide default border to remove 1px line.
+
+.navbar-fixed-top {
+  border: 0;
+  box-shadow: 1px 4px 15px -6px rgba(0,0,0,1);
+}
+
+.navbar-logo {
+  position: relative;
+  top: .9em;
+  left: .5em;
+  height: 1.6em;
+}
+.navbar-icons {
+  position: relative;
+
+  a {
+    padding: .81em 1em !important;
+  }
+
+  i {
+    font-size: 1.8em;
+  }
+
+}
+.navbar-icons-grey {
+  background-color: #EEE;
+}
+
+.navbar-content-block {
+  .navbar-welcome,
+  i {
+    float: left;
+  }
+}
+
+.navbar-welcome {
+  margin-right: 1em;
+  color: $nch-red;
+  text-align: right;
+}
+
+.navbar-welcome,
+.navbar-client {
+  position:relative;
+  top:-.25em;
+  display: block;
+}
+
+.navbar-client {
+  color: #777;
+  font-size: 12px;
+}
+
+.navbar-vertical-divider {
+  border-right: solid 1px $light-grey;
+}
+
+.navbar__notification-count {
+  background-color: $nch-red;
+  border: 1px solid #fff;
+  display: block;
+  position: absolute;
+  top: 6px;
+  right: 9px;
+  color: #fff;
+  width: 18px;
+  height: 18px;
+  border-radius: 9px;
+  text-align: center;
+  line-height: 1.2;
+}

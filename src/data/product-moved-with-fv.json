@@ -1,0 +1,50 @@
+[
+  {
+    "segmentcode":1,
+    "segmentname":"Food",
+    "sectorcode":2,
+    "sectorname":"Dry Grocery",
+    "categorycode":1,
+    "categoryname":"Baby Food",
+    "mediacode":1299,
+    "mediacodename":"Military",
+    "facevaluerangecode":3,
+    "facevaluerangedescription":".76 - 1.00",
+    "couponbuycount":2,
+    "couponfreecount":0,
+    "productsmovedp1":35006,
+    "productsmovedp2":0
+  },
+  {
+    "segmentcode":1,
+    "segmentname":"Food",
+    "sectorcode":2,
+    "sectorname":"Dry Grocery",
+    "categorycode":1,
+    "categoryname":"Baby Food",
+    "mediacode":9999,
+    "mediacodename":"Unknown",
+    "facevaluerangecode":3,
+    "facevaluerangedescription":".76 - 1.00",
+    "couponbuycount":1,
+    "couponfreecount":0,
+    "productsmovedp1":3369,
+    "productsmovedp2":1
+  },
+  {
+    "segmentcode":1,
+    "segmentname":"Food",
+    "sectorcode":2,
+    "sectorname":"Dry Grocery",
+    "categorycode":1,
+    "categoryname":"Baby Food",
+    "mediacode":202,
+    "mediacodename":"FSI",
+    "facevaluerangecode":4,
+    "facevaluerangedescription":"1.00 +",
+    "couponbuycount":1,
+    "couponfreecount":0,
+    "productsmovedp1":222,
+    "productsmovedp2":46
+  }
+]

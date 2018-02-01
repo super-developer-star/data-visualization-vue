@@ -1,0 +1,21 @@
+<div class="summary" id="dashboard_summary">
+  <div class="summary__block">
+    <p class="summary__title">Time Period</p>
+    <select :value="selectedTimePeriod" class="summary__select" @change="updateTimePeriodType">
+      <option v-for="timePeriod in model.timePeriods" :value="timePeriod.id">{{timePeriod.label}}</option>
+    </select>
+    <time-period v-show="model.selectedTimePeriod !== 'ytd'" :time-period-type="model.selectedTimePeriod" :time-period-changed="timePeriodChanged"></time-period>
+  </div>
+  <div class="summary__block summary__block-switch" v-if="currentView != 'Paperless'">
+    <p class="summary__title">Segment: {{segmentName}}</p>
+    <label class="switch">
+      <input type="checkbox" v-model="nonFoodSegment" value="true" class="switch__input" v-on:change="updateSegment">
+      <span class="switch__label"></span>
+    </label>
+  </div>
+  <div class="summary__block summary__block-button" v-if="currentView != 'Paperless'">
+    <p class="summary__title">Sector: {{ sectorName }}</p>
+    <button class="summary__button" @click="showCategoriesModal = true"><i class="fa fa-sliders" aria-hidden="true"></i> Category Filter</button>
+  </div>
+  <filter-modal :show="showCategoriesModal" :on-close="hideModal" :categories="model.categories" :sectors="model.sectors" :on-save="saveModal"></filter-modal>
+</div>

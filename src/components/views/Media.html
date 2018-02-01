@@ -1,0 +1,49 @@
+<div id="home">
+  <navbar></navbar>
+
+  <div class="main-content">
+    <sidebar></sidebar>
+    <div class="main">
+      <loader v-show="model.loadingServices.length > 0"></loader>
+      <dashboard-summary></dashboard-summary>
+      <div class="page-content gradient-background">
+        <view-header>
+          <span>
+            <i class="fa fa-pie-chart"></i>Media: Redemption Share by Media and Category
+          </span>
+          &nbsp;&nbsp; <i class="fa fa-lock fa-2x lock" aria-hidden="true"
+                          @click="onUnlock()" v-if="lock.active"></i>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true"
+                    :svg-elements="['media-manufacturer-bar', 'media-manufacturer-pie', 'media-all-bar', 'media-all-pie']"
+                    :title="'Media: Redemption Share by Media and Category'"
+                    :csv-data="'mediaType'"
+                    :file-name="'Media'"></download>
+        </view-header>
+
+        <div class="row" style="margin-left: 0; margin-right: 0">
+          <div class='col-lg-6 col-md-12 col-sm-12'>
+            <bar chart-id="media-manufacturer-bar" :manufacturer-code="model.manufacturer.code" :lock="lock"
+                 :filter-object="mediaFilter" group-by-field='mediaType' show-breadcrumb="true"></bar>
+          </div>
+          <div class='col-lg-6 col-md-12 col-sm-12'>
+            <pie chart-id="media-manufacturer-pie" group-by-field="categoryname" label-field="Category Type"
+                 :manufacturer-code="model.manufacturer.code" :filter-object="mediaFilter" :lock="lock"
+                 title="Redemption Share by Category"></pie>
+          </div>
+        </div>
+        <div class="row" style="margin-left: 0; margin-right: 0">
+          <div class='col-lg-6 col-md-12 col-sm-12'>
+            <bar chart-id="media-all-bar" manufacturer-code="ALL" :filter-object="mediaFilter" :lock="lock"
+                 group-by-field='mediaType' show-breadcrumb="false"></bar>
+          </div>
+          <div class='col-lg-6 col-md-12 col-sm-12'>
+            <pie chart-id="media-all-pie" group-by-field="categoryname" label-field="Category Type" :lock="lock"
+                 manufacturer-code="ALL" :filter-object="mediaFilter"></pie>
+          </div>
+        </div>
+      </div>
+      <page-footer></page-footer>
+    </div>
+  </div>
+
+</div>

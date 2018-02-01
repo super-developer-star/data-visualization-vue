@@ -1,0 +1,22 @@
+<div id="home">
+  <navbar></navbar>
+  <div class="main-content">
+    <sidebar></sidebar>
+    <div class="main">
+      <div class="page-content">
+        <view-header><i class="fa fa-question-circle"></i> Help</view-header>
+        <div class="row content" style="margin-left: 0; margin-right: 0;">
+          <div class="row" v-for="i in Math.ceil( model.helpItems.length / 2)">
+           <div class="col-md-6 content__holder" v-for="helpItem in model.helpItems.slice((i - 1) * 2, i * 2)">
+              <div class="content__block">
+                <h2 class="content__heading">{{helpItem.title}}</h2>
+                <p>{{helpItem.msg}}</p>
+              </div>
+           </div>
+          </div>
+        </div>
+      </div>
+      <page-footer></page-footer>
+    </div>
+  </div>
+</div>

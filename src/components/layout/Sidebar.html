@@ -1,0 +1,6 @@
+<div class="sidebar">
+  <ul class="sidebar__nav">
+    <sidebar-item :key="item.id" v-for="item in model.sidebarItems" :item="item"
+                  v-if="item.id != 'redemption-trends'"></sidebar-item>
+  </ul>
+</div>

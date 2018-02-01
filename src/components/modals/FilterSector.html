@@ -1,0 +1,11 @@
+<div class="row sector">
+    <p class="select">
+      <span class="sectorname">{{sector.sectorname}}</span>
+      <span class="selectAll" @click="selectAll(categories)">Select All</span>
+      <span class="selectNone" @click="clearAll(categories)" v-if="sectorIsSelected(sector)"> Select None</span>
+    </p>
+    <div class="col-lg-6" v-for="(category, i) in categories">
+      <input type="checkbox" v-model="selectedCategories" :id="sector.sectorcode * 100 + i" :value="category" v-on:change="clickItem(category)"/>
+      <label :for="sector.sectorcode * 100 + i">{{category.categoryname}}</label>
+    </div>
+</div>

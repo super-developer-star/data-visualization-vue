@@ -1,0 +1,99 @@
+<div class='timerperiodContent' v-on-clickaway="onAwayClick">
+  <span class ="timeperiodButton" @click='showTimePeriodOptions = !showTimePeriodOptions'>
+    <i class='fa fa-calendar' aria-hidden='true'></i>
+  </span>
+  <div class='timeperiod-component' v-if='displayTimeSelector'>
+    <loader v-show="isLoading"></loader>
+    <div class='timeperiod-header'>
+      TIME PERIOD:
+      {{timePeriodType}}
+      <!-- disable button if it will not change UI -->
+      <div class="timeperiod-header-years" v-if="timePeriodType === 'week' || timePeriodType === 'month'">
+        <i class="fa fa-caret-left" @click="yearDown" v-show="hasPrevYear"></i>
+        <span>{{selectedYear}}</span>
+        <i class="fa fa-caret-right" @click="yearUp" v-show="hasNextYear"></i>
+      </div>
+    </div>
+
+    <div class='timeperiod-content' @scroll='handleScroll'>
+      <div class='timeperiod-subheader'>
+        Time periods reflect only those that have already completed.
+      </div>
+      <div v-for="item in yearOptions" class="timeperiod-button-container-subitem" v-if="timePeriodType === 'year'" @click="itemClick(timePeriodType, item)" v-bind:class="[isValid(timePeriodType, item)? '' : 'timeperiod-button-container-subitem-disable']">
+        <popper>
+          <div class="popper">{{item.year}}</div>
+          <div slot="reference">{{item.year}}</div>
+        </popper>
+      </div>
+
+      <div v-for="item in quarterOptions" class='timeperiod-button-container-item quarter' v-if="timePeriodType === 'quarter'">
+          <span class="timeperiod-item">
+            {{ item.key }}
+          </span>
+        <template v-for="subitem in item.values">
+            <div class="timeperiod-button-container-subitem" @click="itemClick(timePeriodType, subitem)" :class="[isValid(timePeriodType, subitem) ? '' : 'timeperiod-button-container-subitem-disable', 'Q' +  subitem.quarter]" v-bind:style="{ width: '50px'}">
+              <popper>
+                <div class="popper">Q{{ subitem.quarter }}</div>
+                <div slot="reference">Q{{ subitem.quarter }}</div>
+              </popper>
+            </div>
+        </template>
+      </div>
+
+      <div class='timeperiod-button-container-item month' v-if="timePeriodType === 'month'">
+        <div v-for="subitem in filterMonths(selectedYear)" class="timeperiod-button-container-item">
+          <template v-for="monthitem in subitem.values">
+            <!-- {{monthitem}} -->
+            <div class="timeperiod-button-container-subitem" @click="itemClick(timePeriodType, monthitem)" :class="[isValid(timePeriodType, monthitem) ? '' : 'timeperiod-button-container-subitem-disable', 'M' +  monthitem.month]" v-bind:style="{ width: '50px'}">
+              <popper>
+                <div class="popper">Month:<br>{{ monthitem.tooltip }}</div>
+                <div slot="reference">{{ monthsName[monthitem.month - 1]}}</div>
+              </popper>
+            </div>
+          </template>
+        </div>
+      </div>
+
+      <div class='timeperiod-button-container-item week' v-if="timePeriodType === 'week'">
+        <div v-for="subitem in filterWeeks(selectedYear)" class="timeperiod-button-container-item">
+          <span class="timeperiod-item">
+            {{ monthsName[subitem.key] }}
+          </span>
+          <template v-for="weekitem in subitem.values">
+            <div class="timeperiod-button-container-subitem" @click="itemClick(timePeriodType, weekitem)" :class="[isValid(timePeriodType, weekitem) ? '' : 'timeperiod-button-container-subitem-disable', 'WK' +  weekitem.weekInMonth]" v-bind:style="{ width: '40px'}">
+              <popper>
+                <div class="popper">Week Ending:<br>{{ weekitem.tooltip }}</div>
+                <div slot="reference">WK{{ weekitem.weekInMonth }}</div>
+              </popper>
+            </div>
+          </template>
+        </div>
+      </div>
+
+      <div v-if="timePeriodType === 'weekly-range'">
+        TODO: Implement
+      </div>
+
+    </div>
+
+    <div v-if="arrayLength > 5">
+      <div class="timeperiod-scroll-button" :class="[scrollValue== 0 ? 'timeperiod-button-container-subitem-disable': '']" @click='itemUp()'>
+        <i class="fa fa-caret-up" aria-hidden="true"></i>
+      </div>
+      <div class="timeperiod-scroll-button" :class="[scrollValue === arrayLength - 5 ? 'timeperiod-button-container-subitem-disable': '']" @click='itemDown()'>
+        <i class="fa fa-caret-down" aria-hidden="true"></i>
+      </div>
+    </div>
+
+    <div class="confirm">
+      <div class="alert alert-danger text-center" v-if="showCueMessage">You must deselect a period before making a new selection.</div>
+      <div class="col-lg-6">
+        <button class="btn btn-default col-lg-12" @click='cancel()'>CANCEL</button>
+      </div>
+      <div class="col-lg-6">
+        <button class="btn btn-primary col-lg-12" @click='ok(timePeriodType)' :disabled="selectedItem[timePeriodType].length < 2">OK</button>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</div>

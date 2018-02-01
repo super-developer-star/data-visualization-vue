@@ -1,0 +1,322 @@
+[
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "categorycode": 1,
+    "categoryname": "Baby Food"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "categorycode": 2,
+    "categoryname": "Baking Mixes/Ingredients/Supplies"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "categorycode": 7,
+    "categoryname": "Chips/Pretzels/Popcorn"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "categorycode": 9,
+    "categoryname": "Crackers, Cookies & Snack Bars"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "categorycode": 14,
+    "categoryname": "Meat & Seafood - Canned"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "categorycode": 17,
+    "categoryname": "Pet Food"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "categorycode": 22,
+    "categoryname": "Sugar/Sweeteners/Syrups"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "categorycode": 24,
+    "categoryname": "Vinegar & Oil"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "categorycode": 98,
+    "categoryname": "Cross-Category"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 4,
+    "sectorname": "Refrigerated Foods",
+    "categorycode": 10,
+    "categoryname": "Ready to Eat Fruits & Salads"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 8,
+    "sectorname": "Food",
+    "categorycode": 98,
+    "categoryname": "Cross-Category"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 1,
+    "categoryname": "Air Fresheners & Candles"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 2,
+    "categoryname": "Automotive"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 5,
+    "categoryname": "Clothing & Undergarments"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 7,
+    "categoryname": "Foil/Plastic Wrap & Bags/Plastic Containers"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 9,
+    "categoryname": "Household Cleaners & Supplies"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 10,
+    "categoryname": "Household Maintenance Products"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 11,
+    "categoryname": "Kitchen Items & Appliances"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 12,
+    "categoryname": "Laundry Cleaners & Supplies"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 13,
+    "categoryname": "Light Bulbs & Batteries"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 15,
+    "categoryname": "Pet Care"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 17,
+    "categoryname": "School & Office Supplies"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 20,
+    "categoryname": "Toilet Paper/Tissues/Papertowels"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 5,
+    "sectorname": "Household Goods & General Merchandise",
+    "categorycode": 98,
+    "categoryname": "Cross-Category"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 6,
+    "sectorname": "OTC & Rx Medications",
+    "categorycode": 1,
+    "categoryname": "Health Aids & Remedies"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 6,
+    "sectorname": "OTC & Rx Medications",
+    "categorycode": 2,
+    "categoryname": "First Aid"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 6,
+    "sectorname": "OTC & Rx Medications",
+    "categorycode": 3,
+    "categoryname": "Medical Test Kits & Devices"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 6,
+    "sectorname": "OTC & Rx Medications",
+    "categorycode": 98,
+    "categoryname": "Cross-Category"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 1,
+    "categoryname": "Baby Hygiene"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 2,
+    "categoryname": "Cosmetics"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 3,
+    "categoryname": "Deodorant"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 4,
+    "categoryname": "Fragrances & Gift Sets"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 5,
+    "categoryname": "Grooming Accessories & Cosmetic Applicators"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 6,
+    "categoryname": "Hair Care"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 7,
+    "categoryname": "Hand Cleanser, Bath Soap & Body Wash"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 8,
+    "categoryname": "Oral Hygiene"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 9,
+    "categoryname": "Sanitary Protection & Feminine Hygiene"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 10,
+    "categoryname": "Shaving Supplies"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 11,
+    "categoryname": "Skin Creams & Lotions/Facial Cleansers"
+  },
+  {
+    "segmentcode": 2,
+    "segmentname": "Non-Food",
+    "sectorcode": 7,
+    "sectorname": "Personal Care & Hygiene",
+    "categorycode": 98,
+    "categoryname": "Cross-Category"
+  }
+]

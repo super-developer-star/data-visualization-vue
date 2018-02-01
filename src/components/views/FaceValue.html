@@ -1,0 +1,56 @@
+<div id='home'>
+  <navbar></navbar>
+  <div class='main-content'>
+    <sidebar></sidebar>
+    <div class='main'>
+      <loader v-show="model.loadingServices.length > 0"></loader>
+      <dashboard-summary></dashboard-summary>
+      <router-view></router-view>
+      <div class='page-content gradient-background' v-if="view == 'range'">
+        <view-header>
+          <span><i class="fa fa-dollar fa-2x" aria-hidden="true"></i>
+            Face Value Redeemed
+          </span>
+          &nbsp;&nbsp; <i class="fa fa-lock fa-2x lock" aria-hidden="true"
+                          @click="onUnlock()" v-if="lock.active"></i>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true" :svg-elements="['facevaluestackedbar','facevaluepie']"
+                    :title="'Face Value Redeemed'"
+                    :csv-data="'facevalue'" :file-name="'FaceValue'"></download>
+        </view-header>
+
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <stacked-bar  chart-id="facevaluestackedbar" group-by-field='facevalue' label-field='Face Value Ranges'
+                        :lock="lock" :filter-object="facevalueFilter"></stacked-bar>
+        </div>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <pie chart-id="facevaluepie" group-by-field='medianame' label-field='Media Type' :lock="lock"
+               :manufacturer-code="model.manufacturer.code" :filter-object="facevalueFilter" title="Redemption Share by Media"></pie>
+        </div>
+      </div>
+
+      <div class='page-content gradient-background' v-if="view == 'unit'">
+        <view-header>
+          <span><i class="fa fa-dollar fa-2x" aria-hidden="true"></i>
+            Face Value Per Unit Redeemed
+          </span>
+          &nbsp;&nbsp; <i class="fa fa-lock fa-2x lock" aria-hidden="true"
+                          @click="onUnlock()" v-if="lock.active"></i>
+          <download pdf-enabled="true" csv-enabled="true" png-enabled="true" :svg-elements="['facevalueunitstackedbar','facevaluepie']"
+                    :title="'Face Value Per Unit Redeemed'"
+                    :csv-data="'facevalue'" :file-name="'FaceValue'"></download>
+        </view-header>
+
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <stacked-bar chart-id="facevalueunitstackedbar" group-by-field='facevalueunit' label-field='Face Value Ranges'
+                       :lock="lock" :filter-object="facevalueFilter"></stacked-bar>
+        </div>
+        <div class='col-lg-6 col-md-12 col-sm-12'>
+          <pie chart-id="facevaluepie" group-by-field='medianame' label-field='Media Type' :lock="lock"
+               :manufacturer-code="model.manufacturer.code" :filter-object="facevalueFilter" title="Redemption Share by Media"></pie>
+        </div>
+      </div>
+
+      <page-footer></page-footer>
+    </div>
+  </div>
+</div>

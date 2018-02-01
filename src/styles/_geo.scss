@@ -1,0 +1,188 @@
+// Geo styles
+
+.mysvg {
+  margin: 25px;
+}
+
+.mypath {
+  fill: none;
+  stroke: #76BF8A;
+  stroke-width: 3px;
+}
+
+.counties {
+  fill: none;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.q0-9 {
+  fill: rgb(247, 251, 255);
+}
+
+.q1-9 {
+  fill: rgb(222, 235, 247);
+}
+
+.q2-9 {
+  fill: rgb(198, 219, 239);
+}
+
+.q3-9 {
+  fill: rgb(158, 202, 225);
+}
+
+.q4-9 {
+  fill: rgb(107, 174, 214);
+}
+
+.q5-9 {
+  fill: rgb(66, 146, 198);
+}
+
+.q6-9 {
+  fill: rgb(33, 113, 181);
+}
+
+.q7-9 {
+  fill: rgb(8, 81, 156);
+}
+
+.q8-9 {
+  fill: rgb(8, 48, 107);
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.browser text {
+  text-anchor: end;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+.legend tr {
+  border-bottom: 1px solid grey;
+}
+.legend tr:first-child {
+  border-top: 1px solid grey;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+.legend {
+  margin-bottom:76px;
+  display:inline-block;
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+.legend td {
+  padding:4px 5px;
+  vertical-align:bottom;
+}
+.legendFreq,
+.legendPerc {
+  align:right;
+  width:50px;
+}
+
+.stateFill {
+  fill: #ccc;
+  stroke: #fff;
+}
+
+/* Style for Custom Tooltip */
+div.tooltip {
+  color: #2c2c2c;
+  position: absolute;
+  text-align: center;
+  padding: 5px;
+  font: 12px sans-serif;
+  background: #ffffff;
+  border-radius: 4px;
+  pointer-events: none;
+  box-shadow: 0px 0px 5px 0 rgba(0, 0, 0, 0.5);
+  border: 1px solid #95a3a6;
+}
+
+div.tooltip p{
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+div.tooltip table{
+  margin: 0;
+  color: #95a3a6;
+}
+
+div.tooltip .table > thead > tr > th, .table > tbody > tr > td{
+  border: 0;
+  font-weight: normal;
+  text-align: center;
+}
+
+div.tooltip .value{
+  color: #498fe1;
+}
+
+//div.tooltip::after{
+//  content: "";
+//  position: absolute;
+//  width: 9px;
+//  height: 9px;
+//  margin-left: 0;
+//  bottom: -10px;
+//  left: 15px;
+//  box-sizing: border-box;
+//  border: 1px solid #95a3a6;
+//  background: #ffffff;
+//  transform-origin: 0 0;
+//  transform: rotate(-45deg);
+//  box-shadow: -2px 2px 2px 0 rgba(0, 0, 0, 0.3);
+//  border-top: 0;
+//  border-right: 0;
+//}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis--x path {
+  display: none;
+}
+
+
+.gradient-background{
+  /*
+  background: #ddd;
+  background: -webkit-linear-gradient(#ddd, white);
+  background: -o-linear-gradient(#ddd, white);
+  background: -moz-linear-gradient(#ddd, white);
+  background: linear-gradient(#ddd, white);
+  */
+}
+
+.view-header{
+  background: white;
+}
+
+.bubble {
+  fill-opacity: .5;
+  fill: #b0742e
+}

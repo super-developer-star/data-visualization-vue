@@ -1,0 +1,56 @@
+{
+  "_items": [
+    {
+      "classoftradecode": 7,
+      "classoftrade": "CLEARING HOUSE"
+    },
+    {
+      "classoftradecode": 9,
+      "classoftrade": "CONVENIENCE STORE"
+    },
+    {
+      "classoftradecode": 8,
+      "classoftrade": "DEPARTMENT STORE"
+    },
+    {
+      "classoftradecode": 5,
+      "classoftrade": "ECOMMERCE"
+    },
+    {
+      "classoftradecode": 2,
+      "classoftrade": "HEALTH & BEAUTY"
+    },
+    {
+      "classoftradecode": 4,
+      "classoftrade": "LARGE DRUG/PHARM"
+    },
+    {
+      "classoftradecode": 6,
+      "classoftrade": "LARGE SUPERMARKET"
+    },
+    {
+      "classoftradecode": 10,
+      "classoftrade": "MASS MERCHANDISER"
+    },
+    {
+      "classoftradecode": 13,
+      "classoftrade": "MILITARY"
+    },
+    {
+      "classoftradecode": 1,
+      "classoftrade": "MISCELLANEOUS CLASS"
+    },
+    {
+      "classoftradecode": 3,
+      "classoftrade": "PET SPLY/VET/KENNEL"
+    },
+    {
+      "classoftradecode": 11,
+      "classoftrade": "VARIETY/DISCOUNT"
+    },
+    {
+      "classoftradecode": 12,
+      "classoftrade": "VIDEO/ELECTRONICS"
+    }
+  ]
+}

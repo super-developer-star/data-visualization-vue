@@ -1,0 +1,66 @@
+<div class="page-content">
+  <view-header v-if="view == 'nielsen'">
+    <span>
+      <i class="fa fa-globe"></i>Geography: Redemption Volume Percent Change from Prior Period by Nielsen SCANTRACK&reg; Market
+    </span>
+    &nbsp;&nbsp; <i class="fa fa-lock fa-2x lock" aria-hidden="true"
+                    @click="onUnlock()" v-if="lock.active"></i>
+    <download pdf-enabled="true" csv-enabled="true" png-enabled="true" :csv-data="'nielsenType'"
+              :svg-elements="[manufacturerGeoId, comparableGeoId, 'media-manufacturer-bar', 'media-comparables-bar']"
+              :title="'Geography: Redemption Volume Percent Change from Prior Period by Nielsen SCANTRACK&reg; Market'"
+              :file-name="'Geographic'"></download>
+  </view-header>
+
+  <view-header v-if="view == 'dma'">
+    <span>
+      <i class="fa fa-globe"></i>Geography: Redemption Volume Percent Change from Prior Period by Nielsen DMA
+    </span>
+    &nbsp;&nbsp; <i class="fa fa-lock fa-2x lock" aria-hidden="true"
+                    @click="onUnlock()" v-if="lock.active"></i>
+    <download pdf-enabled="true" csv-enabled="true" png-enabled="true" :csv-data="'nielsenType'"
+              :svg-elements="[manufacturerGeoId, comparableGeoId, 'media-manufacturer-bar', 'media-comparables-bar']"
+              :title="'Geography: Redemption Volume Percent Change from Prior Period by Nielsen DMA'"
+              :file-name="'Geographic'"></download>
+  </view-header>
+
+  <view-header v-if="view == 'iri'">
+    <span>
+      <i class="fa fa-globe"></i>Geography: Redemption Volume Percent Change from Prior Period by IRI InfoScan&reg; Market
+    </span>
+    &nbsp;&nbsp; <i class="fa fa-lock fa-2x lock" aria-hidden="true"
+                    @click="onUnlock()" v-if="lock.active"></i>
+    <download pdf-enabled="true" csv-enabled="true" png-enabled="true" :csv-data="'nielsenType'"
+              :svg-elements="[manufacturerGeoId, comparableGeoId, 'media-manufacturer-bar', 'media-comparables-bar']"
+              :title="'Geography: Redemption Volume Percent Change from Prior Period by IRI InfoScan&reg; Market'"
+              :file-name="'Geographic'"></download>
+  </view-header>
+
+  <div class="row">
+    <div class='col-lg-6 col-md-12 col-sm-12'>
+      <nielsen-market :title="model.manufacturer.name" :geo-id="manufacturerGeoId"
+                      :manufacturer-code="model.manufacturer.code" :market-type="marketType"
+                      :lock="lock" :show-breadcrumb="true" :filter-object="marketFilter"></nielsen-market>
+    </div>
+    <div class='col-lg-6 col-md-12 col-sm-12'>
+      <nielsen-market title="Comparables" :geo-id="comparableGeoId" manufacturer-code="ALL"
+                      :lock="lock" :market-type="marketType" :filter-object="marketFilter"></nielsen-market>
+    </div>
+  </div>
+
+  <div class='barCharts col-lg-12 col-md-12 col-sm-12'>
+    <span class="barChartsTitle">Redemption Share by Media</span>
+    &nbsp;&nbsp; <i class="fa fa-lock fa-2x lock" aria-hidden="true"
+                    @click="onUnlock()" v-if="lock.active"></i>
+  </div>
+  <div class="row">
+    <div class='col-lg-6 col-md-12 col-sm-12'>
+      <bar chart-id="media-manufacturer-bar" :manufacturer-code="model.manufacturer.code"
+           :lock="lock" :filter-object="marketFilter" :group-by-field='marketType'></bar>
+    </div>
+    <div class='col-lg-6 col-md-12 col-sm-12'>
+      <bar chart-id="media-comparables-bar" manufacturer-code="ALL" :filter-object="marketFilter"
+           :lock="lock" :group-by-field='marketType'></bar>
+    </div>
+  </div>
+
+</div>

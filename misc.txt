@@ -1,0 +1,152 @@
+1) Finish adding the grouping to the Facevalue Stacked bar chart
+2) Make the StackedBar chart interactive (mousing over a piece of the StackedBar chart should filter the pie chart with only that piece of data)
+3) Update the Bar chart component to have the same dashed lines and horizontal labels that we currently have on the Product Moved StackedBar chart (see this screenshot: https://www.dropbox.com/s/8ip0k1wlw3ykur7/Screenshot%202017-05-19%2013.00.32.png?dl=0)
+4) Update the Media view to show the Bar/Pie chart combo for both the Manufacturer and the Comparables (see the same screenshot above)
+5) Update the regular bar chart to support multiple periods grouped together (not stacked, but side by side)
+6) update the TimePeriod component to use src/data/period-data.csv
+
+
+manufacturer=~704
+
+OR
+
+excludeManufacturer=704
+
+
+
+    {
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "totalcouponredemeedvalue": 3.0,
+      "period": "Period1",
+      "productmoved": "Buy1 Get0",
+      "mfrname": "General Mills, Inc.",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "storestate": "NV",
+      "_etag": "1a4430cd8eabc4799d706cb90a5a17cbeb33f9b5",
+      "totalcouponredemption": 6
+    },
+
+
+{
+  "items": [
+    {
+      "segmentcode": 1,
+      "segmentname": "Food",
+      "sectorcode": 2,
+      "sectorname": "Dry Grocery",
+      "mediacode": 202,
+      "mediacodename": "FSI",
+      "categorycode": 21,
+      "categoryname": "Spices, Seasonings & Extracts",
+      "couponbuycount": 1,
+      "couponfreecount": 0,
+      "productsmovedp1": 907,
+      "productsmovedp2": 800
+    }
+  ]
+}
+
+productsmovedp1= totalredemptionsp1*(couponbuycount+couponfreecount) (edited)
+
+productsmovedp2 = totalredemptionsp2*(couponbuycount+couponfreecount) (edited)
+
+you need to put the data in 6 differnt types
+
+6 Groupings
+
+  Buy1 Get 0
+   Buy2 Get 0
+   Buy3 Get 0
+   Buy4 Get 0
+   Buy1 Get 1+ Could be Buy1 Get 1,2,34 and so on
+   FREE   Buy0 Get 1 and  Buy0 Get 1+ 1,2,34 and so on
+
+
+A value greater than zero in the couponfreecount field is dynamic
+
+
+Product Moved index is calculated as current period’s redemption count divided by the prior period’s redemption count multiplied by 100 for selected criteria (manufacturer vs. comparables, time period, category)
+
+1. Prior time period will always equal 100.
+
+
+c {req: l, xhr: XMLHttpRequest, text: "<!doctype html><html lang="en"><head><title>HTTP S…ne" /><h3>Apache Tomcat/8.5.12</h3></body></html>", statusText: "", statusCode: 500…}
+accepted
+:
+false
+badRequest
+:
+false
+body
+:
+null
+charset
+:
+"utf-8"
+clientError
+:
+false
+error
+:
+Error: cannot GET /crunch/timeperiods?manufacturer=704 (500) at c.toError (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:9:17971) at c.r._setStatusProperties (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:24:6279) at new c (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:9:15242) at l.<anonymous> (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:9:15753) at l.r.emit (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:22:25514) at XMLHttpRequest.n.onreadystatechange (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:9:20417)
+method
+:
+"GET"
+status
+:
+500
+url
+:
+"/crunch/timeperiods?manufacturer=704"
+message
+:
+"cannot GET /crunch/timeperiods?manufacturer=704 (500)"
+stack
+:
+"Error: cannot GET /crunch/timeperiods?manufacturer=704 (500)↵    at c.toError (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:9:17971)↵    at c.r._setStatusProperties (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:24:6279)↵    at new c (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:9:15242)↵    at l.<anonymous> (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:9:15753)↵    at l.r.emit (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:22:25514)↵    at XMLHttpRequest.n.onreadystatechange (http://da1x-nchngx-d1/static/js/vendor.3419662d180c20427c25.js:9:20417)"
+__proto__
+:
+Object
+forbidden
+:
+false
+header
+:
+Object
+headers
+:
+Object
+info
+:
+false
+links
+:
+Object
+noContent
+:
+false
+notAcceptable
+:
+false
+notFound
+:
+false
+ok
+:
+false
+redirect
+:
+false
+req
+:
+l
+serverError
+:
+true
+status
+:
+500
+statusCode
+:
+500
+statusText

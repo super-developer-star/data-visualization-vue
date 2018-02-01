@@ -1,0 +1,72 @@
+[
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 1,
+    "sectorname": "Beverages",
+    "marketratiop1": 2.0,
+    "marketratiop2": 0.0,
+    "marketcode": "23",
+    "marketname": "LOS ANGELES"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 1,
+    "sectorname": "Beverages",
+    "marketratiop1": 1.0,
+    "marketratiop2": 0.0,
+    "marketcode": "33",
+    "marketname": "OMAHA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 1,
+    "sectorname": "Beverages",
+    "marketratiop1": 2.8,
+    "marketratiop2": 6.2,
+    "marketcode": "",
+    "marketname": ""
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 1,
+    "sectorname": "Beverages",
+    "marketratiop1": 3.0,
+    "marketratiop2": 0.0,
+    "marketcode": "31",
+    "marketname": "NEW YORK"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 1,
+    "sectorname": "Beverages",
+    "marketratiop1": 0.0,
+    "marketratiop2": 3.0,
+    "marketcode": "07",
+    "marketname": "CHARLOTTE"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 1,
+    "sectorname": "Beverages",
+    "marketratiop1": 0.0,
+    "marketratiop2": 10.0,
+    "marketcode": "06",
+    "marketname": "BUFFALO-ROCHESTER"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 1,
+    "sectorname": "Beverages",
+    "marketratiop1": 0.0,
+    "marketratiop2": 1.0,
+    "marketcode": "08",
+    "marketname": "CHICAGO"
+  }
+]

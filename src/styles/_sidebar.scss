@@ -1,0 +1,168 @@
+// Sidebar
+$activeBorder: .4em solid $blue;
+
+// Hide for mobile, show later
+.sidebar {
+  display: none;
+
+  @media (min-width: 768px) {
+    z-index: 1000;
+    display: block;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto; // Scrollable contents if viewport is shorter than content.
+    background-color: $nch-red;
+    // border-right: 1px solid #eee;
+    width: 260px;
+    min-width: 260px;
+    position: fixed;
+    height: calc(100vh - 50px);
+    top: 50px;
+    left: 0;
+  }
+}
+
+// Sidebar navigation
+.sidebar__nav {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 100%;
+}
+
+.sidebar__nav-item {
+  display: block;
+  width: 100%;
+
+  > a > .fa {
+    width: 40px;
+    text-align: center;
+  }
+
+  > a,
+  > a:focus {
+    padding: 15px 20px;
+    color: $white;
+    background-color: $nch-red;
+    transition: background-color 1000ms;
+    text-transform: uppercase;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+  }
+
+  > a:hover {
+    background-color: #a53150;
+    transition: background-color 500ms;
+    text-decoration: none;
+  }
+}
+
+.sidebar__nav > .active > a,
+.sidebar__nav > .active > a:hover,
+.sidebar__nav > .active > a:focus {
+  // padding-bottom: 0;
+  color: $white;
+  text-shadow: 2px 2px 5px #525e62;
+  background: #333; // For browsers that do not support gradients
+  border-right: $activeBorder;
+  // background: linear-gradient(to right, #69797e, #9caaae); // Standard syntax
+}
+
+.sidebar__nav-submenu {
+  background-color: #333;
+  padding: 0 15px;
+  margin: 0;
+  list-style: none;
+  max-height: 0;
+  overflow: hidden;
+  visibility: hidden;
+  transition: max-height .5s cubic-bezier(0, 1.05, 0, 1);
+  border-right: $activeBorder;
+
+  &.active {
+    max-height: 500px;
+    visibility: visible;
+    padding-bottom: 15px;
+    transition: max-height .3s ease-in;
+
+    .sidebar__nav-submenu-item {
+      padding-top: 5px;
+      padding-bottom: 5px;
+      font-size: 14px;
+    }
+  }
+}
+
+.sidebar__nav-submenu-item {
+  padding: 0;
+  margin: 0;
+  display: block;
+
+  a {
+    @include clearfix;
+    display: flex;
+    justify-content: flex-start;
+    flex: 1;
+
+    > span {
+      color: #fff;
+      transition: color .3s;
+      display: block;
+    }
+
+    > .fa {
+      color: #7c8c90;
+      font-size: 14px;
+      margin-right: 10px;
+      padding-top: 2px;
+      // width: 25px;
+      max-width: 16px;
+      min-width: 16px;
+      text-align: center;
+      transition: color .3s;
+      display: block;
+    }
+
+    &:hover,
+    &:active,
+    &:visited,
+    &:focus {
+      text-decoration: none;
+    }
+
+    &:hover,
+    &:active {
+      .fa,
+      span {
+        color: #8edbff;
+      }
+    }
+  }
+}
+
+.sidebar-link {
+  position: relative;
+  left: 1em;
+  top: -.25em;
+}
+
+.navbar-brand {
+  color: #2c2c2c !important;
+  font-weight: bold;
+}
+
+#paperless {
+  .fa-tablet {
+    transform: rotate(-90deg);
+    font-size: 40px;
+  }
+
+  .sidebar-link {
+    top: -.5em;
+  }
+}
+
+.paperless {
+  transform: rotate(-90deg);
+}

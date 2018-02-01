@@ -1,0 +1,27 @@
+{
+   "login":{
+      "header":"Login",
+      "formTitle":"Sign In to your account"
+   },
+   "registration":{
+      "header":"Registration"
+   },
+   "desktop":{
+      "headerTitle":"Dashboard"
+   },
+   "bilateral":{
+       "headerTitle":"Bilateral Data"
+   
+   },
+      "geo":{
+       "headerTitle":"Geo Data"
+   
+   },
+      "piechart":{
+       "headerTitle":"Pie Charts"
+   },
+   "footer":{
+       "copyWriteNotice":"2016, NCH MARKETING SERVICES, INC. ALL RIGHTS RESERVED.",
+       "version": "version v1.0.$JENKINS_BUILD_NUMBER"
+   }
+}

@@ -1,0 +1,30 @@
+.v-select .selected-tag {
+  background: #4d92df !important;
+  color: white !important;
+  padding: 5px 15px !important;
+  height: 35px !important;
+  font-family: proxima_novaregular;
+  font-size: 16px;
+  margin:3px !important;
+}
+
+.v-select .close {
+  float: left !important;
+  opacity: 1 !important;
+  margin-left: -10px !important;
+  margin-top: -8px !important;
+}
+
+.v-select .close span {
+  color: white !important;
+}
+
+.fa-circle {
+  font-size:20px !important;
+  margin-top:10px !important;
+}
+
+.fa-times {
+  font-size:15px !important;
+  color: #4d92df !important;
+}

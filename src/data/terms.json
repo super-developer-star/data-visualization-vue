@@ -1,0 +1,25 @@
+{
+	"version": 2,
+	"sections": [{
+			"id": 1,
+			"sort": 1,
+			"date": "05/21/17",
+			"title": "",
+			"msg": "Welcome to www.nchmarketing.com. By using our site, you are agreeing to comply with and be bound by the following terms of use."
+		}, {
+			"id": 2,
+			"sort": 2,
+			"date": "05/21/17",
+			"title": "",
+			"msg": "1. You agree to the terms and conditions outlined in this Terms of Use Agreement (\"Agreement\") with respect to our site "
+		},
+		{
+			"id": 3,
+			"sort": 3,
+			"date": "05/07/17",
+			"title": "",
+			"msg": "2. The content, organization, graphics, design, compilation, magnetic translation, digital conversion and other matters related to the site are "
+		}
+
+	]
+}

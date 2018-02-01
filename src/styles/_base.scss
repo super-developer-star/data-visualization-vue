@@ -1,0 +1,50 @@
+// Base structure
+
+// Move down content because we have a fixed navbar that is 50px tall
+body {
+  padding-top: 50px;
+  color: #95a3a6;
+  font-family: 'proxima_novaregular';
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  letter-spacing: .05em;
+}
+
+#app {
+  display: flex;
+  flex: 1;
+}
+
+// Global add-ons
+
+.sub-header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.nch-brand {
+  color: #86243e !important;
+}
+
+.category-select {
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: $white;
+  background-image: none;
+  border: 1px solid $light-grey;
+  border-radius: 4px;
+}
+
+.debug-border {
+  border: 1px solid #86243e;
+  border-radius: 1px;
+}
+
+.chart-border {
+  border: 1px solid #1B060F;
+  border-radius: 1px;
+}

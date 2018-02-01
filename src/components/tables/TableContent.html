@@ -1,0 +1,66 @@
+<div style="position: relative">
+  <p>{{currentManufacturer}} vs Comparables</p>
+  <table id="RedemptionTable" class="col-lg-12 table-responsive">
+    <tr class="t-period-row">
+      <td :value="'category names'"></td>
+      <td class="empty"></td>
+      <td class="t-period" colspan="5">{{periodString(model.period1)}}</td>
+      <td class="empty"></td>
+      <td class="t-period" colspan="5">{{periodString(model.period2)}}</td>
+    </tr>
+    <tr class="emptyRow"></tr>
+    <template v-for="category in categories">
+      <tr class="t-head">
+        <td>{{category.categoryname}}</td>
+        <td class="empty"></td>
+        <td v-for="mediaName in model.mediaTypeNames" :value="mediaName">
+          <popper :options="{placement: 'top'}">
+            <div class="popper">{{getLabel(mediaName)}}</div>
+            <div v-if="getIcon(mediaName) != 'fa-file-o'" slot="reference"><i class="fa fa-2x" v-bind:class="getIcon(mediaName)" aria-hidden="true"></i>
+            </div>
+            <div v-else slot="reference">
+  				<span class="fa-stack fa-1x">
+    			<i class="fa fa-file-o fa-stack-2x"></i>
+    			<div class="fa-stack-1x fa-stack-text file-text">$</div>
+  			</span>
+            </div>
+          </popper>
+        </td>
+        <td class="empty"></td>
+        <td v-for="mediaName in model.mediaTypeNames" :value="mediaName">
+          <popper :options="{placement: 'top'}">
+            <div class="popper">{{getLabel(mediaName)}}</div>
+          <div v-if="getIcon(mediaName) != 'fa-file-o'" slot="reference"><i class="fa fa-2x" v-bind:class="getIcon(mediaName)" aria-hidden="true"></i>
+            </div>
+            <div v-else slot="reference">
+  				<span class="fa-stack fa-1x">
+    			<i class="fa fa-file-o fa-stack-2x"></i>
+    			<div class="fa-stack-1x fa-stack-text file-text">$</div>
+  			</span>
+            </div>
+          </popper>
+        </td>
+      </tr>
+      <tr class="emptyRow"></tr>
+      <tr class="t-body">
+        <td class="text-left categoryName">{{currentManufacturer}}</td>
+        <td class="empty"></td>
+          <template v-for="(mediaName, i) in model.mediaTypeNames">
+            <td v-bind:class="{border_left: i==0, border_right: i==4}">{{getTableValue( category, mediaName, 1, currentManufacturer )}}</td>
+          </template>
+        <td class="empty"></td>
+          <template v-for="(mediaName, i) in model.mediaTypeNames">
+            <td v-bind:class="{border_left: i==0, border_right: i==4}">{{getTableValue( category, mediaName, 2, currentManufacturer )}}</td>
+          </template>
+      </tr>
+      <tr class="even">
+        <td class="text-left categoryName">{{compareManufacturer}}</td>
+        <td class="empty"></td>
+        <td v-for="(mediaName, i) in model.mediaTypeNames" v-bind:class="{border_left: i==0, border_right: i==4}">{{getTableValue( category, mediaName, 1, 'ALL' )}}</td>
+        <td class="empty"></td>
+        <td v-for="(mediaName, i) in model.mediaTypeNames" v-bind:class="{border_left: i==0, border_right: i==4}">{{getTableValue( category, mediaName, 2, 'ALL' )}}</td>
+      </tr>
+      <tr class="emptyRow"></tr>
+    </template>
+  </table>
+</div>

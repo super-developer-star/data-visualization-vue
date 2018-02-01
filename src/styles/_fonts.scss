@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'proxima_novaregular';
+  src: url('../fonts/ProximaNova/pn-regular.eot');
+  src: url('../fonts/ProximaNova/pn-regular.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/ProximaNova/pn-regular.woff2') format('woff2'),
+  url('../fonts/ProximaNova/pn-regular.woff') format('woff'),
+  url('../fonts/ProximaNova/pn-regular.ttf') format('truetype'),
+  url('../fonts/ProximaNova/pn-regular.svg#proxima_novaregular') format('svg');
+}
+@font-face {
+  font-family: 'proxima_novabold';
+  src: url('../fonts/ProximaNova/pn-bold.eot');
+  src: url('../fonts/ProximaNova/pn-bold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/ProximaNova/pn-bold.woff2') format('woff2'),
+  url('../fonts/ProximaNova/pn-bold.woff') format('woff'),
+  url('../fonts/ProximaNova/pn-bold.ttf') format('truetype'),
+  url('../fonts/ProximaNova/pn-bold.svg#proxima_novabold') format('svg');
+}
+@font-face {
+  font-family: 'proxima_novasemibold';
+  src: url('../fonts/ProximaNova/pn-semibold.eot');
+  src: url('../fonts/ProximaNova/pn-semibold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/ProximaNova/pn-semibold.woff2') format('woff2'),
+  url('../fonts/ProximaNova/pn-semibold.woff') format('woff'),
+  url('../fonts/ProximaNova/pn-semibold.ttf') format('truetype'),
+  url('../fonts/ProximaNova/pn-semibold.svg#proxima_novasemibold') format('svg');
+}
+@font-face {
+  font-family: 'NCH';
+  src: url('../fonts/NCH/NCH.eot');
+  src: url('../fonts/NCH/NCH.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/NCH/NCH.woff') format('woff'),
+  url('../fonts/NCH/NCH.ttf') format('truetype'),
+  url('../fonts/NCH/NCH.svg#NCH') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class*='icon-']:before{
+  display: inline-block;
+  font-family: 'NCH';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+.icon-nonfood:before{content:'\0041';}
+.icon-food:before{content:'\0042';}
+.icon-printer:before{content:'\0043';}
+.icon-scissors:before{content:'\0044';}
+.icon-unknown:before{content:'\0045';}
+.icon-military:before{content:'\0046';}
+.icon-register:before{content:'\0047';}
+.icon-tablet:before{content:'\0048';}
+/*
+@font-face{
+  font-family:"Futura W01 Light";
+  src:url("../fonts/Futura/Futura_W01_Light.eot?#iefix");
+  src:url("../fonts/Futura/Futura_W01_Light.eot?#iefix") format("eot"),url("../fonts/Futura/Futura_W01_Light.woff2") format("woff2"),url("../fonts/Futura/Futura_W01_Light.woff") format("woff"),url("../fonts/Futura/Futura_W01_Light.ttf") format("truetype"),url("../fonts/Futura/Futura_W01_Light.svg#67fb5232-0944-4965-8594-ed2972b84950") format("svg");
+}
+
+@font-face{
+  font-family:"Futura W01 Book";
+  src:url("../fonts/Futura/Futura_W01_Book.eot?#iefix");
+  src:url("../fonts/Futura/Futura_W01_Book.eot?#iefix") format("eot"),url("../fonts/Futura/Futura_W01_Book.woff2") format("woff2"),url("../fonts/Futura/Futura_W01_Book.woff") format("woff"),url("../fonts/Futura/Futura_W01_Book.ttf") format("truetype"),url("../fonts/Futura/Futura_W01_Book.svg#15c556fc-4608-4b01-8a0d-9c8631c8bd74") format("svg");
+}
+
+@font-face{
+  font-family:"Futura W02 Medium";
+  src:url("../fonts/Futura/Futura_W02_Medium.eot?#iefix");
+  src:url("../fonts/Futura/Futura_W02_Medium.eot?#iefix") format("eot"),url("../fonts/Futura/Futura_W02_Medium.woff2") format("woff2"),url("../fonts/Futura/Futura_W02_Medium.woff") format("woff"),url("../fonts/Futura/Futura_W02_Medium.ttf") format("truetype"),url("../fonts/Futura/Futura_W02_Medium.svg#f3818821-bb07-46d0-81ff-b2f6559f71be") format("svg");
+}
+
+@font-face{
+  font-family:"Futura W01 Bold";
+  src:url("../fonts/Futura/Futura_W01_Bold.eot?#iefix");
+  src:url("../fonts/Futura/Futura_W01_Bold.eot?#iefix") format("eot"),url("../fonts/Futura/Futura_W01_Bold.woff2") format("woff2"),url("../fonts/Futura/Futura_W01_Bold.woff") format("woff"),url("../fonts/Futura/Futura_W01_Bold.ttf") format("truetype"),url("../fonts/Futura/Futura_W01_Bold.svg#2a371030-ff67-40ac-8307-082c1fccf151") format("svg");
+}
+*/

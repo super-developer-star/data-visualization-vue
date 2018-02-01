@@ -1,0 +1,158 @@
+{
+  "UserType":3,
+  "FirstName":"Penelope",
+  "LastName":"Halock",
+  "SecUserId":293,
+  "UserId":"penelope@launchtest.com",
+  "SecAppId":9,
+  "LoginResultId":0,
+  "items":[
+    {
+      "ClientId":10009,
+      "NmsMfrId":8,
+      "NrsMfrId":705,
+      "SortableName":"General Mills, Inc.",
+      "Name":"General Mills, Inc."
+    },
+    {
+      "ClientId":10159,
+      "NmsMfrId":163,
+      "NrsMfrId":163,
+      "SortableName":"BIC USA Inc.",
+      "Name":"BIC USA Inc."
+    },
+    {
+      "ClientId":10265,
+      "NmsMfrId":277,
+      "NrsMfrId":277,
+      "SortableName":"J.M. Smucker Company",
+      "Name":"J.M. Smucker Company"
+    },
+    {
+      "ClientId":10488,
+      "NmsMfrId":509,
+      "NrsMfrId":509,
+      "SortableName":"L'Oreal USA",
+      "Name":"L'Oreal USA"
+    },
+    {
+      "ClientId":10588,
+      "NmsMfrId":616,
+      "NrsMfrId":616,
+      "SortableName":"Pfizer Consumer Healthcare",
+      "Name":"Pfizer Consumer Healthcare"
+    },
+    {
+      "ClientId":10720,
+      "NmsMfrId":752,
+      "NrsMfrId":9752,
+      "SortableName":"Perdue Farms Incorporated",
+      "Name":"Perdue Farms Incorporated"
+    },
+    {
+      "ClientId":10964,
+      "NmsMfrId":1014,
+      "NrsMfrId":6427,
+      "SortableName":"GlaxoSmithKline",
+      "Name":"GlaxoSmithKline"
+    },
+    {
+      "ClientId":10995,
+      "NmsMfrId":1050,
+      "NrsMfrId":8376,
+      "SortableName":"Chattem, Inc.",
+      "Name":"Chattem, Inc."
+    },
+    {
+      "ClientId":11015,
+      "NmsMfrId":1071,
+      "NrsMfrId":250,
+      "SortableName":"4 C Foods Corporation",
+      "Name":"4 C Foods Corporation"
+    },
+    {
+      "ClientId":11060,
+      "NmsMfrId":1119,
+      "NrsMfrId":711,
+      "SortableName":"Colgate-Palmolive Company",
+      "Name":"Colgate-Palmolive Company"
+    },
+    {
+      "ClientId":11208,
+      "NmsMfrId":1296,
+      "NrsMfrId":7832,
+      "SortableName":"BBU, Inc.",
+      "Name":"BBU, Inc."
+    },
+    {
+      "ClientId":11277,
+      "NmsMfrId":1370,
+      "NrsMfrId":998,
+      "SortableName":"Unilever",
+      "Name":"Unilever"
+    },
+    {
+      "ClientId":11360,
+      "NmsMfrId":1453,
+      "NrsMfrId":265,
+      "SortableName":"Johnson & Johnson",
+      "Name":"Johnson & Johnson"
+    },
+    {
+      "ClientId":11378,
+      "NmsMfrId":1471,
+      "NrsMfrId":2986,
+      "SortableName":"Diamond Foods",
+      "Name":"Diamond Foods"
+    },
+    {
+      "ClientId":11382,
+      "NmsMfrId":1475,
+      "NrsMfrId":2022,
+      "SortableName":"Sun Products Corporation",
+      "Name":"Sun Products Corporation"
+    },
+    {
+      "ClientId":11383,
+      "NmsMfrId":1476,
+      "NrsMfrId":3048,
+      "SortableName":"Starkist Company",
+      "Name":"Starkist Company"
+    },
+    {
+      "ClientId":11441,
+      "NmsMfrId":2101,
+      "NrsMfrId":7954,
+      "SortableName":"Heinz North America",
+      "Name":"Heinz North America"
+    },
+    {
+      "ClientId":11460,
+      "NmsMfrId":2122,
+      "NrsMfrId":6430,
+      "SortableName":"Clorox Company, The",
+      "Name":"The Clorox Company"
+    },
+    {
+      "ClientId":11662,
+      "NmsMfrId":1526,
+      "NrsMfrId":4888,
+      "SortableName":"Armored Auto Group, Inc.",
+      "Name":"Armored Auto Group, Inc."
+    },
+    {
+      "ClientId":11674,
+      "NmsMfrId":1538,
+      "NrsMfrId":5468,
+      "SortableName":"Mondelez Global LLC",
+      "Name":"Mondelez Global LLC"
+    },
+    {
+      "ClientId":11675,
+      "NmsMfrId":1539,
+      "NrsMfrId":5469,
+      "SortableName":"Kraft Foods Group, Inc.",
+      "Name":"Kraft Foods Group, Inc."
+    }
+  ]
+}

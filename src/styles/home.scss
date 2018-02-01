@@ -1,0 +1,365 @@
+// @import 'bootstrap';
+// @import 'font-awesome';
+// @import 'base';
+@import 'config';
+
+#landing {
+  @include clearfix;
+  display: flex;
+  flex-direction: column;
+  margin-top: -50px;
+  height: 100vh;
+  width: 100%;
+  background: url('/static/img/close_1.png') no-repeat;
+  background-size: cover;
+  flex-grow: 1;
+  position: relative;
+}
+
+.navbar-home {
+  height: 100px;
+  background-color: $white;
+  padding: 25px 0 0 55px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, .3);
+  position: static;
+  width: 100%;
+  z-index: 999;
+  border-radius: 0;
+
+  .navbar-logo {
+    height: 50px;
+    display: block;
+    position: static;
+  }
+}
+
+.home-content__wrapper {
+  flex-grow: 1;
+  position: relative;
+  padding: 0 55px;
+}
+
+.client-login {
+  width: 590px;
+  padding: 30px 40px;
+  border: 5px solid $white;
+  border-radius: 10px;
+  background-color: rgba($nch-red, .9);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, .5);
+  position: absolute;
+  left: 55px;
+  bottom: 50px;
+  font-size: 14px;
+}
+
+.client-login__title {
+  padding: 0;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 700;
+  color: $white;
+}
+
+.client-login__description {
+  color: rgba($white, .7);
+}
+
+.form-home__submit {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+
+  [type='submit'] {
+    display: block;
+    width: 300px;
+    background-color: $blue;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 20px;
+    float: right;
+    color: $white;
+    height: 50px;
+    transition: background-color .3s;
+
+    &:hover {
+      background-color: lighten($blue, 10%);
+    }
+  }
+}
+
+.form-home__input {
+  display: flex;
+  flex-wrap: wrap;
+
+  [type='text'],
+  [type='email'],
+  [type='password'] {
+    border: 2px solid rgba($white, .7);
+    border-radius: 5px;
+    background-color: rgba($white, .2);
+    padding: 10px;
+    margin: 15px 10px;
+    display: block;
+    flex-grow: 1;
+    height: 50px;
+    color: $white;
+
+    &::-webkit-input-placeholder {
+      color: $light-grey;
+    }
+
+    &::-moz-placeholder {
+      color: $light-grey;
+      opacity: 1;
+    }
+
+    &:-ms-input-placeholder {
+      color: $light-grey;
+    }
+
+    &:-moz-placeholder {
+      color: $light-grey;
+    }
+  }
+
+  [type='text'],
+  [type='email'] {
+    margin-left: 0;
+  }
+
+  [type='password'] {
+    margin-right: 0;
+  }
+}
+
+.home-content {
+  top: 100vh;
+  margin-top: -20px;
+  color: $white;
+  position: relative;
+  width: 100%;
+}
+
+.home-footer {
+  background-color: #333;
+  width: 100%;
+  height: 70px;
+  padding: 0 55px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  p {
+    width: 50%;
+    padding: 0 50px;
+    margin: 0;
+    text-transform: uppercase;
+    color: $white;
+  }
+}
+
+.home-footer__nav {
+  margin: auto;
+  width: 50%;
+  padding-right: 50px;
+
+  ul {
+    @include clearfix;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;
+  }
+
+  li {
+    text-align: center;
+    padding: 0 40px;
+    float: left;
+
+    a {
+      color: $white;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.home-footer__form-title {
+  font-size: 20px;
+}
+
+.blackout {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.7);
+  z-index: 9999;
+}
+
+.modal-form {
+  width: 70%;
+  background-color: $white;
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  border-radius: 10px;
+  border: 2px solid $nch-black;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, .5);
+}
+
+.modal-form__header,
+.modal-form__body {
+  padding: 20px;
+}
+
+.modal-form__header {
+  border-bottom: 1px solid $grey;
+  text-transform: uppercase;
+}
+
+.modal-form__title {
+  padding: 0;
+  margin: 0;
+  font-size: 24px;
+
+  .fa {
+    padding-right: 10px;
+    color: #666;
+  }
+}
+
+.modal-form__close {
+  border: 0;
+  -webkit-appearance: none;
+  background-color: transparent;
+  font-size: 24px;
+  position: absolute;
+  right: 20px;
+  top: 14px;
+}
+
+.modal-form__body {
+  color: $nch-black;
+}
+
+.modal-form__input {
+  @include clearfix;
+  width: 100%;
+
+  label {
+    color: #999;
+  }
+
+  label,
+  [type='email'],
+  [type='text'],
+  [type='password'],
+  [type='submit'] {
+    display: block;
+    width: 100%
+  }
+
+  [type='email'],
+  [type='text'],
+  [type='password'] {
+    border: 2px solid rgba($grey, .7);
+    border-radius: 5px;
+    padding: 10px;
+    height: 50px;
+
+    &::-webkit-input-placeholder {
+      color: #999;
+    }
+
+    &::-moz-placeholder {
+      color: #999;
+      opacity: 1;
+    }
+
+    &:-ms-input-placeholder {
+      color: #999;
+    }
+
+    &:-moz-placeholder {
+      color: #999;
+    }
+  }
+
+  [type='submit'] {
+    background-color: $blue;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: $white;
+    height: 50px;
+    transition: background-color .3s;
+    text-transform: uppercase;
+    margin-top: 10px;
+
+    &:hover {
+      background-color: lighten($blue, 10%);
+    }
+  }
+}
+
+.modal-form__input-group {
+  @include clearfix;
+  width: 50%;
+  float: left;
+  padding-bottom: 10px;
+
+  &:nth-child(odd) {
+    padding-right: 10px;
+  }
+
+  &:nth-child(even) {
+    padding-left: 10px;
+  }
+}
+
+.modal-form__message {
+  @include clearfix;
+  border: 1px solid $nch-red;
+  padding: 16px 15px 20px;
+  border-radius: 5px;
+  margin: 2px 0 10px;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  font-size: 16px;
+  background-color: rgba(darken(#f2a5a5, 5%),.7);
+  border-color: $nch-red;
+  color: $nch-red;
+
+  .fa,
+  p {
+    padding: 0;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .fa {
+    display: block;
+    padding-right: 15px;
+    font-size: 24px;
+    position: relative;
+    top: -3px;
+  }
+}
+
+.modal-form__forgot-password {
+  text-align: right;
+  padding: 10px 0;
+
+  a {
+    color: $blue;
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}

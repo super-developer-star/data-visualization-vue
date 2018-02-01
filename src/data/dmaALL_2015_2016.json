@@ -1,0 +1,1874 @@
+[
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 18.4,
+    "marketcode": "669",
+    "marketname": "MADISON WI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -49.8,
+    "marketcode": "649",
+    "marketname": "EVANSVILLE IN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -23.1,
+    "marketcode": "855",
+    "marketname": "SANTA BARBARA-SANTA MARIA CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -20.2,
+    "marketcode": "534",
+    "marketname": "ORLANDO-DAYTONA BEACH-MELBOURNE FL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 77.0,
+    "marketcode": "533",
+    "marketname": "HARTFORD & NEW HAVEN CT"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -25.4,
+    "marketcode": "693",
+    "marketname": "LITTLE ROCK-PINE BLUFF AR"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -18.0,
+    "marketcode": "523",
+    "marketname": "BURLINGTON-PLATTSBURGH VT-NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -40.2,
+    "marketcode": "698",
+    "marketname": "MONTGOMERY (SELMA) AL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -11.0,
+    "marketcode": "505",
+    "marketname": "DETROIT MI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -37.6,
+    "marketcode": "773",
+    "marketname": "GRAND JUNCTION-MONTROSE CO"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -83.3,
+    "marketcode": "749",
+    "marketname": "LAREDO TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -60.4,
+    "marketcode": "671",
+    "marketname": "TULSA OK"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -5.2,
+    "marketcode": "528",
+    "marketname": "MIAMI-FT LAUDERDALE FL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -48.2,
+    "marketcode": "639",
+    "marketname": "JACKSON TN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -66.0,
+    "marketcode": "766",
+    "marketname": "HELENA MT"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -35.1,
+    "marketcode": "711",
+    "marketname": "MERIDIAN MS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -22.6,
+    "marketcode": "573",
+    "marketname": "ROANOKE-LYNCHBURG VA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 15.5,
+    "marketcode": "821",
+    "marketname": "BEND OR"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -23.5,
+    "marketcode": "506",
+    "marketname": "BOSTON (MANCHESTER) MA-NH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -31.5,
+    "marketcode": "558",
+    "marketname": "LIMA OH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -25.5,
+    "marketcode": "508",
+    "marketname": "PITTSBURGH PA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 21.9,
+    "marketcode": "532",
+    "marketname": "ALBANY-SCHENECTADY-TROY NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -41.1,
+    "marketcode": "627",
+    "marketname": "WICHITA FALLS & LAWTON TX-OK"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -29.0,
+    "marketcode": "563",
+    "marketname": "GRAND RAPIDS-KALAMAZOO-BATTLE CREEK MI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -17.2,
+    "marketcode": "605",
+    "marketname": "TOPEKA KS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -32.3,
+    "marketcode": "525",
+    "marketname": "ALBANY GA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -10.4,
+    "marketcode": "502",
+    "marketname": "BINGHAMTON NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -76.3,
+    "marketcode": "745",
+    "marketname": "FAIRBANKS AK"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -27.3,
+    "marketcode": "561",
+    "marketname": "JACKSONVILLE FL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 14.1,
+    "marketcode": "638",
+    "marketname": "ST JOSEPH MO"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -31.1,
+    "marketcode": "659",
+    "marketname": "NASHVILLE TN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -21.4,
+    "marketcode": "551",
+    "marketname": "LANSING MI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 28.4,
+    "marketcode": "545",
+    "marketname": "GREENVILLE-NEW BERN-WASHINGTON NC"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -59.3,
+    "marketcode": "734",
+    "marketname": "JONESBORO AR"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -41.2,
+    "marketcode": "868",
+    "marketname": "CHICO-REDDING CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 121.8,
+    "marketcode": "550",
+    "marketname": "WILMINGTON NC"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -45.5,
+    "marketcode": "543",
+    "marketname": "SPRINGFIELD-HOLYOKE MA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -45.4,
+    "marketcode": "583",
+    "marketname": "ALPENA MI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -11.7,
+    "marketcode": "570",
+    "marketname": "FLORENCE-MYRTLE BEACH SC"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -39.5,
+    "marketcode": "564",
+    "marketname": "CHARLESTON-HUNTINGTON WV"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -13.0,
+    "marketcode": "752",
+    "marketname": "COLORADO SPRINGS-PUEBLO CO"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -30.5,
+    "marketcode": "676",
+    "marketname": "DULUTH-SUPERIOR MN-WI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -29.4,
+    "marketcode": "819",
+    "marketname": "SEATTLE-TACOMA WA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -45.9,
+    "marketcode": "839",
+    "marketname": "LAS VEGAS NV"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -51.0,
+    "marketcode": "609",
+    "marketname": "ST LOUIS MO"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -23.1,
+    "marketcode": "556",
+    "marketname": "RICHMOND-PETERSBURG VA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -24.4,
+    "marketcode": "514",
+    "marketname": "BUFFALO NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -45.9,
+    "marketcode": "691",
+    "marketname": "HUNTSVILLE-DECATUR (FLORENCE) AL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -18.3,
+    "marketcode": "555",
+    "marketname": "SYRACUSE NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -31.9,
+    "marketcode": "618",
+    "marketname": "HOUSTON TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 38.7,
+    "marketcode": "758",
+    "marketname": "IDAHO FALLS-POCATELLO ID"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -25.3,
+    "marketcode": "881",
+    "marketname": "SPOKANE WA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -46.6,
+    "marketcode": "716",
+    "marketname": "BATON ROUGE LA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -56.1,
+    "marketcode": "626",
+    "marketname": "VICTORIA TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -33.3,
+    "marketcode": "686",
+    "marketname": "MOBILE-PENSACOLA (FT WALTON BEACH) AL-FL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -55.6,
+    "marketcode": "650",
+    "marketname": "OKLAHOMA CITY OK"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 210.1,
+    "marketcode": "512",
+    "marketname": "BALTIMORE MD"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -56.9,
+    "marketcode": "866",
+    "marketname": "FRESNO-VISALIA CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -16.3,
+    "marketcode": "526",
+    "marketname": "UTICA NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -100.0,
+    "marketcode": "747",
+    "marketname": "JUNEAU AK"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -40.9,
+    "marketcode": "682",
+    "marketname": "DAVENPORT-ROCK ISLAND-MOLINE IA-IL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -35.5,
+    "marketcode": "811",
+    "marketname": "RENO NV"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -59.5,
+    "marketcode": "625",
+    "marketname": "WACO-TEMPLE-BRYAN TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -19.4,
+    "marketcode": "507",
+    "marketname": "SAVANNAH GA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -44.6,
+    "marketcode": "740",
+    "marketname": "NORTH PLATTE NE"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -20.5,
+    "marketcode": "760",
+    "marketname": "TWIN FALLS ID"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -25.6,
+    "marketcode": "500",
+    "marketname": "PORTLAND-AUBURN ME"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -11.6,
+    "marketcode": "617",
+    "marketname": "MILWAUKEE WI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -28.3,
+    "marketcode": "598",
+    "marketname": "CLARKSBURG-WESTON WV"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -39.0,
+    "marketcode": "515",
+    "marketname": "CINCINNATI OH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -26.6,
+    "marketcode": "658",
+    "marketname": "GREEN BAY-APPLETON WI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 5.5,
+    "marketcode": "576",
+    "marketname": "SALISBURY MD"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -17.5,
+    "marketcode": "571",
+    "marketname": "FT MYERS-NAPLES FL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -39.3,
+    "marketcode": "630",
+    "marketname": "BIRMINGHAM (ANNISTON TUSCALOOSA) AL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -28.8,
+    "marketcode": "803",
+    "marketname": "LOS ANGELES CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 367.3,
+    "marketcode": "504",
+    "marketname": "PHILADELPHIA PA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -39.5,
+    "marketcode": "524",
+    "marketname": "ATLANTA GA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -42.2,
+    "marketcode": "770",
+    "marketname": "SALT LAKE CITY UT"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -29.2,
+    "marketcode": "675",
+    "marketname": "PEORIA-BLOOMINGTON IL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -31.8,
+    "marketcode": "765",
+    "marketname": "EL PASO TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -51.3,
+    "marketcode": "606",
+    "marketname": "DOTHAN AL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -49.4,
+    "marketcode": "642",
+    "marketname": "LAFAYETTE LA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -25.8,
+    "marketcode": "542",
+    "marketname": "DAYTON OH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -14.4,
+    "marketcode": "641",
+    "marketname": "SAN ANTONIO TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -20.4,
+    "marketcode": "509",
+    "marketname": "FT WAYNE IN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 29.6,
+    "marketcode": "588",
+    "marketname": "SOUTH BEND-ELKHART IN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -76.4,
+    "marketcode": "759",
+    "marketname": "CHEYENNE-SCOTTSBLUFF WY-NE"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -38.7,
+    "marketcode": "553",
+    "marketname": "MARQUETTE MI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -55.8,
+    "marketcode": "559",
+    "marketname": "BLUEFIELD-BECKLEY-OAK HILL WV"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -17.2,
+    "marketcode": "753",
+    "marketname": "PHOENIX AZ"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -29.9,
+    "marketcode": "825",
+    "marketname": "SAN DIEGO CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -31.8,
+    "marketcode": "673",
+    "marketname": "COLUMBUS-TUPELO-WEST POINT MS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 45.3,
+    "marketcode": "517",
+    "marketname": "CHARLOTTE NC"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 13.0,
+    "marketcode": "519",
+    "marketname": "CHARLESTON SC"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 5.2,
+    "marketcode": "751",
+    "marketname": "DENVER CO"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -39.6,
+    "marketcode": "810",
+    "marketname": "YAKIMA-PASCO-RICHLAND-KENNEWICK WA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -31.4,
+    "marketcode": "651",
+    "marketname": "LUBBOCK TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -34.7,
+    "marketcode": "743",
+    "marketname": "ANCHORAGE AK"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -24.0,
+    "marketcode": "722",
+    "marketname": "LINCOLN & HASTINGS-KEARNY NE"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -32.7,
+    "marketcode": "530",
+    "marketname": "TALLAHASSEE-THOMASVILLE FL-GA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -24.4,
+    "marketcode": "679",
+    "marketname": "DES MOINES-AMES IA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -72.2,
+    "marketcode": "604",
+    "marketname": "COLUMBIA-JEFFERSON CITY MO"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -47.8,
+    "marketcode": "717",
+    "marketname": "QUINCY-HANNIBAL-KEOKUK IL-MO-IA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -84.3,
+    "marketcode": "647",
+    "marketname": "GREENWOOD-GREENVILLE MS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -44.7,
+    "marketcode": "670",
+    "marketname": "FT SMITH-FAY-SPRNGDL-RGRS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 1.6,
+    "marketcode": "544",
+    "marketname": "NORFOLK-PORTSMOUTH-NEWPORT NEWS VA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -0.8,
+    "marketcode": "596",
+    "marketname": "ZANESVILLE OH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -16.3,
+    "marketcode": "546",
+    "marketname": "COLUMBIA SC"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -44.8,
+    "marketcode": "648",
+    "marketname": "CHAMPAIGN & SPRINGFIELD-DECATUR IL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -1.3,
+    "marketcode": "801",
+    "marketname": "EUGENE OR"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -39.7,
+    "marketcode": "862",
+    "marketname": "SACRAMENTO-STOCKTON-MODESTO CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 95.4,
+    "marketcode": "560",
+    "marketname": "RALEIGH-DURHAM (FAYETTEVILLE) NC"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -70.4,
+    "marketcode": "600",
+    "marketname": "CORPUS CHRISTI TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -29.0,
+    "marketcode": "624",
+    "marketname": "SIOUX CITY IA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -53.1,
+    "marketcode": "807",
+    "marketname": "SAN FRANCISCO-OAKLAND-SAN JOSE CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -69.3,
+    "marketcode": "744",
+    "marketname": "HONOLULU HI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -79.8,
+    "marketcode": "754",
+    "marketname": "BUTTE-BOZEMAN MT"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -42.3,
+    "marketcode": "813",
+    "marketname": "MEDFORD-KLAMATH FALLS OR"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -3.1,
+    "marketcode": "613",
+    "marketname": "MINNEAPOLIS-ST PAUL MN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -55.7,
+    "marketcode": "757",
+    "marketname": "BOISE ID"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -9.4,
+    "marketcode": "520",
+    "marketname": "AUGUSTA GA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -14.5,
+    "marketcode": "602",
+    "marketname": "CHICAGO IL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 36.2,
+    "marketcode": "702",
+    "marketname": "LA CROSSE-EAU CLAIRE WI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -32.2,
+    "marketcode": "634",
+    "marketname": "AMARILLO TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -36.8,
+    "marketcode": "527",
+    "marketname": "INDIANAPOLIS IN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -52.8,
+    "marketcode": "635",
+    "marketname": "AUSTIN TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -78.0,
+    "marketcode": "767",
+    "marketname": "CASPER-RIVERTON WY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -27.6,
+    "marketcode": "802",
+    "marketname": "EUREKA CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -64.9,
+    "marketcode": "709",
+    "marketname": "TYLER-LONGVIEW (LUFKIN & NACOGDOCHES) TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -72.9,
+    "marketcode": "756",
+    "marketname": "BILLINGS MT"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -64.9,
+    "marketcode": "531",
+    "marketname": "TRI-CITIES TN-VA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -78.2,
+    "marketcode": "636",
+    "marketname": "HARLINGEN-WESLACO-BROWNSVILLE-MCALLEN TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -13.7,
+    "marketcode": "535",
+    "marketname": "COLUMBUS OH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -40.7,
+    "marketcode": "623",
+    "marketname": "DALLAS-FT WORTH TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -29.2,
+    "marketcode": "662",
+    "marketname": "ABILENE-SWEETWATER TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 7.7,
+    "marketcode": "548",
+    "marketname": "WEST PALM BEACH-FT PIERCE FL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -37.7,
+    "marketcode": "661",
+    "marketname": "SAN ANGELO TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -67.8,
+    "marketcode": "800",
+    "marketname": "BAKERSFIELD CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -43.2,
+    "marketcode": "656",
+    "marketname": "PANAMA CITY FL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -28.9,
+    "marketcode": "521",
+    "marketname": "PROVIDENCE-NEW BEDFORD RI-MA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -32.6,
+    "marketcode": "619",
+    "marketname": "SPRINGFIELD MO"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -28.6,
+    "marketcode": "828",
+    "marketname": "MONTEREY-SALINAS CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -30.7,
+    "marketcode": "718",
+    "marketname": "JACKSON MS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -50.8,
+    "marketcode": "764",
+    "marketname": "RAPID CITY SD"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -44.2,
+    "marketcode": "522",
+    "marketname": "COLUMBUS GA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -13.2,
+    "marketcode": "631",
+    "marketname": "OTTUMWA-KIRKSVILLE IA-MO"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -2.1,
+    "marketcode": "510",
+    "marketname": "CLEVELAND OH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -62.6,
+    "marketcode": "610",
+    "marketname": "ROCKFORD IL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -35.1,
+    "marketcode": "603",
+    "marketname": "JOPLIN-PITTSBURG MO-KS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -51.2,
+    "marketcode": "724",
+    "marketname": "FARGO-VALLEY CITY ND"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -48.5,
+    "marketcode": "678",
+    "marketname": "WICHITA-HUTCHINSON PLUS KS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -46.5,
+    "marketcode": "540",
+    "marketname": "TRAVERSE CITY-CADILLAC MI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -14.3,
+    "marketcode": "538",
+    "marketname": "ROCHESTER NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 13.1,
+    "marketcode": "577",
+    "marketname": "WILKES BARRE-SCRANTON PA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -52.6,
+    "marketcode": "582",
+    "marketname": "LAFAYETTE IN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -23.3,
+    "marketcode": "622",
+    "marketname": "NEW ORLEANS LA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 35.3,
+    "marketcode": "511",
+    "marketname": "WASHINGTON DC (HAGERSTOWN MD)"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -15.7,
+    "marketcode": "554",
+    "marketname": "WHEELING-STEUBENVILLE WV-OH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -50.5,
+    "marketcode": "820",
+    "marketname": "PORTLAND OR"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -37.1,
+    "marketcode": "692",
+    "marketname": "BEAUMONT-PORT ARTHUR TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -36.7,
+    "marketcode": "516",
+    "marketname": "ERIE PA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -57.4,
+    "marketcode": "632",
+    "marketname": "PADUCAH KY-CAPE GIRARDEAU MO"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -54.9,
+    "marketcode": "581",
+    "marketname": "TERRE HAUTE IN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -31.2,
+    "marketcode": "789",
+    "marketname": "TUCSON (SIERRA VISTA) AZ"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -27.9,
+    "marketcode": "529",
+    "marketname": "LOUISVILLE KY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -42.9,
+    "marketcode": "637",
+    "marketname": "CEDAR RAPIDS-WATERLOO & DUBUQUE IA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -29.0,
+    "marketcode": "565",
+    "marketname": "ELMIRA NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -55.2,
+    "marketcode": "644",
+    "marketname": "ALEXANDRIA LA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -35.2,
+    "marketcode": "736",
+    "marketname": "BOWLING GREEN KY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -28.0,
+    "marketcode": "547",
+    "marketname": "TOLEDO OH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -15.0,
+    "marketcode": "566",
+    "marketname": "HARRISBURG-LANCASTER-LEBANON-YORK PA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -34.3,
+    "marketcode": "628",
+    "marketname": "MONROE-EL DORADO LA-AR"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -52.5,
+    "marketcode": "612",
+    "marketname": "SHREVEPORT LA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -27.9,
+    "marketcode": "537",
+    "marketname": "BANGOR ME"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -70.4,
+    "marketcode": "762",
+    "marketname": "MISSOULA MT"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -66.9,
+    "marketcode": "755",
+    "marketname": "GREAT FALLS MT"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 5.3,
+    "marketcode": "567",
+    "marketname": "GREENVILLE-SPARTANBURG SC-ASHEVILLE NC"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -5.6,
+    "marketcode": "592",
+    "marketname": "GAINESVILLE FL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -2.4,
+    "marketcode": "574",
+    "marketname": "JOHNSTOWN-ALTOONA PA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -34.6,
+    "marketcode": "640",
+    "marketname": "MEMPHIS TN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -37.5,
+    "marketcode": "790",
+    "marketname": "ALBUQUERQUE-SANTA FE NM"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -58.2,
+    "marketcode": "771",
+    "marketname": "YUMA-EL CENTRO AZ-CA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -41.9,
+    "marketcode": "503",
+    "marketname": "MACON GA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -37.5,
+    "marketcode": "710",
+    "marketname": "HATTIESBURG-LAUREL MS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -60.9,
+    "marketcode": "687",
+    "marketname": "MINOT-BISMARCK-DICKINSON (WILLISTON) ND"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -25.7,
+    "marketcode": "705",
+    "marketname": "WAUSAU-RHINELANDER WI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -37.9,
+    "marketcode": "557",
+    "marketname": "KNOXVILLE TN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -57.5,
+    "marketcode": "643",
+    "marketname": "LAKE CHARLES LA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -24.4,
+    "marketcode": "633",
+    "marketname": "ODESSA-MIDLAND TX"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 565.1,
+    "marketcode": "501",
+    "marketname": "NEW YORK NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -15.8,
+    "marketcode": "597",
+    "marketname": "PARKERSBURG WV"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -33.6,
+    "marketcode": "746",
+    "marketname": "BILOXI-GULFPORT MS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -19.6,
+    "marketcode": "616",
+    "marketname": "KANSAS CITY MO-KS"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 8.6,
+    "marketcode": "569",
+    "marketname": "HARRISONBURG VA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 47.7,
+    "marketcode": "584",
+    "marketname": "CHARLOTTESVILLE VA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -1.5,
+    "marketcode": "652",
+    "marketname": "OMAHA NE"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -25.7,
+    "marketcode": "611",
+    "marketname": "ROCHESTER-MASON CITY-AUSTIN MN-IA"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -20.8,
+    "marketcode": "549",
+    "marketname": "WATERTOWN NY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -36.8,
+    "marketcode": "541",
+    "marketname": "LEXINGTON KY"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -48.4,
+    "marketcode": "657",
+    "marketname": "SHERMAN-ADA TX-OK"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -14.1,
+    "marketcode": "539",
+    "marketname": "TAMPA-ST PETERSBURG (SARASOTA) FL"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -43.0,
+    "marketcode": "552",
+    "marketname": "PRESQUE ISLE ME"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -21.3,
+    "marketcode": "513",
+    "marketname": "FLINT-SAGINAW-BAY CITY MI"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 4.9,
+    "marketcode": "737",
+    "marketname": "MANKATO MN"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": 53.0,
+    "marketcode": "518",
+    "marketname": "GREENSBORO-HIGH POINT-WINSTON SALEM NC"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -51.3,
+    "marketcode": "536",
+    "marketname": "YOUNGSTOWN OH"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -31.1,
+    "marketcode": "725",
+    "marketname": "SIOUX FALLS (MITCHELL) SD"
+  },
+  {
+    "segmentcode": 1,
+    "segmentname": "Food",
+    "sectorcode": 2,
+    "sectorname": "Dry Grocery",
+    "marketchange": -41.0,
+    "marketcode": "575",
+    "marketname": "CHATTANOOGA TN"
+  }
+]

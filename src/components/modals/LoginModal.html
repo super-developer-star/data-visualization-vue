@@ -1,0 +1,42 @@
+<div @click.stop.prevent class="modal-form" id="modal-login">
+  <div class="modal-form__header">
+    <h2 class="modal-form__title"><i class="fa fa-key"></i> Login</h2>
+    <button id="modal-login-close" class="modal-form__close" @click="hideLoginModal">
+      <i class="fa fa-close"></i>
+    </button>
+  </div>
+  <div class="modal-form__body">
+    <form action="" class="modal-form__login" id="modal-form-login">
+      <div class="modal-form__input">
+        <div class="modal-form__input-group">
+          <label for="username">Username</label>
+          <input v-model="user.name" type="text" placeholder="Username">
+        </div>
+        <div class="modal-form__input-group">
+          <label for="password">Password</label>
+          <input v-model="user.password" type="password" placeholder="Password">
+          <p class="modal-form__forgot-password">
+            <a :href="resetUrl" target="_blank">Forgot username or password?</a>
+          </p>
+        </div>
+      </div>
+      <div class="modal-form__input">
+        <div class="modal-form__input-group" v-show="hasError">
+          <div class="modal-form__message">
+            <i class="fa fa-warning"></i>
+            <p>{{errorMessage}}</p>
+          </div>
+        </div>
+        <div class="modal-form__input-group">
+          <div class="modal-form__captcha">
+            <!-- replace with working captcha -->
+            <div class="g-recaptcha" data-sitekey="6LcVdisUAAAAAJpv7er2OI02PBt1I-xBvO7om5U5" data-callback='recaptcha_callback' ></div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-form__input" >
+        <button @click="submitLogin" id="modal-form-login-submit" style="display: none;" type="submit">Login</button>
+      </div>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,1949 @@
+{
+  "_items": [
+    {
+      "medianame": "FSI",
+      "storestate": "AE",
+      "totalcouponredemption": 20,
+      "totalcouponredemeedvalue": "13.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "69246ec28bd5fc985737746228c2de383d7c66af"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "AK",
+      "totalcouponredemption": 3,
+      "totalcouponredemeedvalue": "0.75",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "0503d5fde55378e51eaa8c5030f63b9a4314b127"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "AL",
+      "totalcouponredemption": 910,
+      "totalcouponredemeedvalue": "339.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "ed5bd788dc7d732e1b5ff06d503b477bd59cdf11"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "AP",
+      "totalcouponredemption": 3,
+      "totalcouponredemeedvalue": "3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a7e6d0b7115a354cb5c0dce6bac8db513649f334"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "AR",
+      "totalcouponredemption": 324,
+      "totalcouponredemeedvalue": "106.75",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "157f9445121520e4dfbaf2038b5b2083f9b7b8e9"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "AZ",
+      "totalcouponredemption": 379,
+      "totalcouponredemeedvalue": "142.45",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "97388e651aa227746f050c377c6bedd1e6302e9d"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "CA",
+      "totalcouponredemption": 3267,
+      "totalcouponredemeedvalue": "1314.4",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "c4b9bd95f2085b88ca80cb786349ecf789f0688e"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "CO",
+      "totalcouponredemption": 244,
+      "totalcouponredemeedvalue": "94.95",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "fff5555c55db922c75ede633bf6d8b33c1d0f3f1"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "CT",
+      "totalcouponredemption": 425,
+      "totalcouponredemeedvalue": "90.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8f57c6238119060fca5e89b282835d970c0882b6"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "DC",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "0.2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "fff2316939d82b2b0825cfab2c64f935b9602a5d"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "DE",
+      "totalcouponredemption": 112,
+      "totalcouponredemeedvalue": "26.3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "6b691cfe3a737c29aa13a3b6dc230fdbc9207aa9"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "FL",
+      "totalcouponredemption": 3242,
+      "totalcouponredemeedvalue": "1133.55",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "7926f4d96d499a6ba2ab5792fcd7876793f8029a"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "GA",
+      "totalcouponredemption": 1384,
+      "totalcouponredemeedvalue": "523.6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e0028b4afa50a5edf52f85a3f77de09b15286b4b"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "GU",
+      "totalcouponredemption": 9,
+      "totalcouponredemeedvalue": "7",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d64b15f5d3dd475ddc64bf4f721f16abf0d79fd5"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "HI",
+      "totalcouponredemption": 262,
+      "totalcouponredemeedvalue": "111",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "557f9c9b04271ade8863a7e632e17fcaf49e3ac6"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "IA",
+      "totalcouponredemption": 733,
+      "totalcouponredemeedvalue": "231",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "13bf39ebed305b0b93835526de9f2ee887604520"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "ID",
+      "totalcouponredemption": 165,
+      "totalcouponredemeedvalue": "56",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "6f1b054f286e37c67ee46277773ff8c8ad08c817"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "IL",
+      "totalcouponredemption": 2805,
+      "totalcouponredemeedvalue": "932.7",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "0566112ea94f581c7b6ee99c858e268e8d2f66e9"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "IN",
+      "totalcouponredemption": 1721,
+      "totalcouponredemeedvalue": "558.7",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "851b51b879a61baff75d01a1290c06776bacef5f"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "KS",
+      "totalcouponredemption": 405,
+      "totalcouponredemeedvalue": "132.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8659f6cc7dab9d6dd4dc07305656acd476d781b6"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "KY",
+      "totalcouponredemption": 711,
+      "totalcouponredemeedvalue": "238.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "fa399bc6552111db920c493f3c26a33b6fe9b804"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "LA",
+      "totalcouponredemption": 503,
+      "totalcouponredemeedvalue": "171.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "da794ff51ac84f5dce4a161db680d17984c64966"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "MA",
+      "totalcouponredemption": 508,
+      "totalcouponredemeedvalue": "120.6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "119155b67d81cceb3850f1ac1f2e07eda732c09e"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "MD",
+      "totalcouponredemption": 769,
+      "totalcouponredemeedvalue": "180.1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "14ed4050a4a50775546ff5b142c336d1878c1eea"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "ME",
+      "totalcouponredemption": 127,
+      "totalcouponredemeedvalue": "25.45",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "776056a457ac28424916c93deac011175b734278"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "MI",
+      "totalcouponredemption": 885,
+      "totalcouponredemeedvalue": "201.8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "bc3e169274132cbbf1b1b783503e40c83765b559"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "MN",
+      "totalcouponredemption": 1678,
+      "totalcouponredemeedvalue": "556",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "37fe9d40334ef2cd504431b7b3ea3ffdc61036f0"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "MO",
+      "totalcouponredemption": 1112,
+      "totalcouponredemeedvalue": "369.95",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "92e78bdf7fd8fe57f4b97f4db929ccf230c5f57c"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "MS",
+      "totalcouponredemption": 213,
+      "totalcouponredemeedvalue": "80.45",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "4934677e255204f335cab8c5461b36929d27cc95"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "MT",
+      "totalcouponredemption": 54,
+      "totalcouponredemeedvalue": "17",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8fec37f08efb86c3de654577604a193c1f8b3303"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "NC",
+      "totalcouponredemption": 2099,
+      "totalcouponredemeedvalue": "730.4",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "2a4775549a3a080ab644688664cc220dee8d610f"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "ND",
+      "totalcouponredemption": 159,
+      "totalcouponredemeedvalue": "52.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "ca4bc97055b881958bc2b9811b2470de476ba4d1"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "NE",
+      "totalcouponredemption": 299,
+      "totalcouponredemeedvalue": "93",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "79dc02944bb1891ff1b9003281b440833b0f9052"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "NH",
+      "totalcouponredemption": 136,
+      "totalcouponredemeedvalue": "28.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "2e08cf5946ade8e7e1430109e1be0386bcc80a0a"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "NJ",
+      "totalcouponredemption": 472,
+      "totalcouponredemeedvalue": "136.05",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "ee4b2ec46bb156b2b16ae7a7831bc232cec3fc82"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "NM",
+      "totalcouponredemption": 101,
+      "totalcouponredemeedvalue": "31.75",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "9523f669d252f8b8923d287dc281fc03368695e8"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "NV",
+      "totalcouponredemption": 689,
+      "totalcouponredemeedvalue": "308.75",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "efceff321b2f83a8027800a86aa323696b9af672"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "NY",
+      "totalcouponredemption": 1874,
+      "totalcouponredemeedvalue": "429.7",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "4d5c43af863da3beee4c69167e1f2dae4f7946d5"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "OH",
+      "totalcouponredemption": 2753,
+      "totalcouponredemeedvalue": "916.8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "acfcceec91ef0fdb0f7c7bb78f4ca855ed5d17ec"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "OK",
+      "totalcouponredemption": 253,
+      "totalcouponredemeedvalue": "94.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "978a4c266a07453d8aab9951a0eed09a6d72b32c"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "OR",
+      "totalcouponredemption": 234,
+      "totalcouponredemeedvalue": "101.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a46186a102d373e7c608bfc1f845972db2a8b66e"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "PA",
+      "totalcouponredemption": 2886,
+      "totalcouponredemeedvalue": "778.55",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "71e644c1455562f5f76ff9631e88aaa34d31b0ba"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "PR",
+      "totalcouponredemption": 158,
+      "totalcouponredemeedvalue": "39.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "3195638d64bbf073f47c9f9adcb50c5685cccc79"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "RI",
+      "totalcouponredemption": 91,
+      "totalcouponredemeedvalue": "19",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "efc62739f6ff32e1f4ae0dcc7fbe24baddd2ee28"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "SC",
+      "totalcouponredemption": 1097,
+      "totalcouponredemeedvalue": "393",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "cf24961a0368181f9ab262376eafa1b664b01e47"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "SD",
+      "totalcouponredemption": 227,
+      "totalcouponredemeedvalue": "72.75",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e29aacda11875f224f58db334b7f8955e2909a17"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "TN",
+      "totalcouponredemption": 721,
+      "totalcouponredemeedvalue": "235.2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "825c5c422cb34980fa103131986c8ee528badb88"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "TX",
+      "totalcouponredemption": 2076,
+      "totalcouponredemeedvalue": "842.65",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "4b3c54d21fe3297c40b0d43537d3794dc8ca4945"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "UT",
+      "totalcouponredemption": 146,
+      "totalcouponredemeedvalue": "54.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "9cd985fc4032a6d1b55f7e5f7587d888ae5459ab"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "VA",
+      "totalcouponredemption": 1105,
+      "totalcouponredemeedvalue": "338.8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "aeda8242d1c046384453b20b32b452429e576207"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "VT",
+      "totalcouponredemption": 30,
+      "totalcouponredemeedvalue": "6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "5dd74a96a3c6b3a0fb769270aadd1ce59dae4c0a"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "WA",
+      "totalcouponredemption": 576,
+      "totalcouponredemeedvalue": "245.9",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "b7ccb1e523b51e155fcdd5bb5ee5f1ba8486f988"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "WI",
+      "totalcouponredemption": 1169,
+      "totalcouponredemeedvalue": "393",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "721360918f2482359cf45b527e656ab0e70e8cb1"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "WV",
+      "totalcouponredemption": 276,
+      "totalcouponredemeedvalue": "84.8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "3122e20be93ef2bcd919b86c4be3f0c0d55268aa"
+    },
+    {
+      "medianame": "FSI",
+      "storestate": "WY",
+      "totalcouponredemption": 41,
+      "totalcouponredemeedvalue": "12.2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8dc3d513d122b7d7c94dc36ffb41ef384f4baaf9"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "AL",
+      "totalcouponredemption": 13,
+      "totalcouponredemeedvalue": "26.23",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "fe2c5f5fd2524628a46bee1f7e2bd49345fdf466"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "AR",
+      "totalcouponredemption": 6,
+      "totalcouponredemeedvalue": "5.85",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "4e9c2b37dc1e1424792086b0b0c4afeb29bcee81"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "AZ",
+      "totalcouponredemption": 2,
+      "totalcouponredemeedvalue": "1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "ea1074a86eb8fa20e29de1ab90a28d33f6cc3b11"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "CA",
+      "totalcouponredemption": 56,
+      "totalcouponredemeedvalue": "79.3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "b9503655513d049a747c6e751c3fb8368a80d321"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "CO",
+      "totalcouponredemption": 3,
+      "totalcouponredemeedvalue": "2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "cb03dbe65fafb4d6599dcc39dc8977304b8ead04"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "CT",
+      "totalcouponredemption": 2,
+      "totalcouponredemeedvalue": "1.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "de67c68863d3290ae539f2ae368ebea4100a1b60"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "DE",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "f8f58ce5579810b9363f4f4acff753b14b5c4750"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "FL",
+      "totalcouponredemption": 48,
+      "totalcouponredemeedvalue": "62.56",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "4a4de380c63a68d11c58d84fbbce49f6ec1ddbe2"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "GA",
+      "totalcouponredemption": 25,
+      "totalcouponredemeedvalue": "23",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "00b844f82a9124376e30e215d2cc1f5824f05851"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "IA",
+      "totalcouponredemption": 20,
+      "totalcouponredemeedvalue": "31.35",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8c03000a8d676aaa36940553d67600966c6cfd9a"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "IL",
+      "totalcouponredemption": 45,
+      "totalcouponredemeedvalue": "49.74",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "72baf71fdebdd2baf4b174beb16a58bc101a8a90"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "IN",
+      "totalcouponredemption": 7,
+      "totalcouponredemeedvalue": "8.83",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "3bf4e18c91f346d07a312d2fa376db45d73e5bb7"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "KS",
+      "totalcouponredemption": 3,
+      "totalcouponredemeedvalue": "2.2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "1644aed6696ef45d58da0ced46137b319678893c"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "KY",
+      "totalcouponredemption": 8,
+      "totalcouponredemeedvalue": "7.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "b50947f722bd369556cc54b77245e3675c23c101"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "LA",
+      "totalcouponredemption": 3,
+      "totalcouponredemeedvalue": "4.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "70be457a171766b7d69c0e47060a6049a3dd93ba"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "MA",
+      "totalcouponredemption": 22,
+      "totalcouponredemeedvalue": "25.46",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "9a0a195e4cfb3bdb7e5f8c70bc42a94e36f9101c"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "MD",
+      "totalcouponredemption": 7,
+      "totalcouponredemeedvalue": "12.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "2b793a1bacc3166972d09723e504c33cc413ffe6"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "ME",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "0.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "1590631d9442e0019c3c8f6a082d4d2eb6ee52d8"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "MI",
+      "totalcouponredemption": 47,
+      "totalcouponredemeedvalue": "54",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e27c1f5684301329cd12664183f50b2cc0d79315"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "MN",
+      "totalcouponredemption": 43,
+      "totalcouponredemeedvalue": "74.26",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "535b3c9f2b3208f5cd0560f58bc9294ca6cad783"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "MO",
+      "totalcouponredemption": 9,
+      "totalcouponredemeedvalue": "14.11",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "387a82d7eec1ae8d438ce954ba6a513ac8849837"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "MS",
+      "totalcouponredemption": 4,
+      "totalcouponredemeedvalue": "4.89",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "2cc1f026a3dc4f0a574e7c8af08e7d438b0a70f8"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "NC",
+      "totalcouponredemption": 12,
+      "totalcouponredemeedvalue": "13",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "12bae824ea2d660b4a2fd410306965a8ea9e4c0d"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "ND",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e20f2692ea75f2a000f85249dce3f78c5389c3f5"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "NE",
+      "totalcouponredemption": 10,
+      "totalcouponredemeedvalue": "22.97",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "6796551379074775a56b229dfde9bae861fb0ec7"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "NH",
+      "totalcouponredemption": 2,
+      "totalcouponredemeedvalue": "1.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "ae504066f6abfa808b17973d27b0f82d869d9477"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "NJ",
+      "totalcouponredemption": 26,
+      "totalcouponredemeedvalue": "31",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "892a4933e8662ac8ad5971170e491189b416aa3a"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "NM",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "2.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e528cc869a78c0a1ffc9a51b2b78a38e509f9240"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "NY",
+      "totalcouponredemption": 65,
+      "totalcouponredemeedvalue": "85.23",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "b2e968214cb5bde493a9d5d8d1f2ae3982b21992"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "OH",
+      "totalcouponredemption": 19,
+      "totalcouponredemeedvalue": "25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a37d2ae2c09adebd0d64d145cc7cc3d19a79c95a"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "OK",
+      "totalcouponredemption": 3,
+      "totalcouponredemeedvalue": "4",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "792bfa61b2333ab4cf0645dcaf7a16580d482850"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "OR",
+      "totalcouponredemption": 7,
+      "totalcouponredemeedvalue": "5.83",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "7289e3ed1fe5efaa96f9f3b5382bda3d61487700"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "PA",
+      "totalcouponredemption": 58,
+      "totalcouponredemeedvalue": "70.96",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e349db7eedc51bfcd872fbee247661fc94fc267e"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "PR",
+      "totalcouponredemption": 3,
+      "totalcouponredemeedvalue": "3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "13c906d1a134637d4ccf0673cb0f59c425b9dc59"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "RI",
+      "totalcouponredemption": 11,
+      "totalcouponredemeedvalue": "11",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d45984d9effbf5b5ebdb4b2c363f631056d9bbfe"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "SC",
+      "totalcouponredemption": 5,
+      "totalcouponredemeedvalue": "4.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "7885132431a54390f70343509ef8a397179ab6c1"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "SD",
+      "totalcouponredemption": 3,
+      "totalcouponredemeedvalue": "4",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "40d66e3b668eebe164e6c9f687ddf0568fdf0635"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "TN",
+      "totalcouponredemption": 9,
+      "totalcouponredemeedvalue": "14.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "b9fafe32e6e033553a0ccbd84850025795b2d261"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "TX",
+      "totalcouponredemption": 13,
+      "totalcouponredemeedvalue": "11.99",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "58d10a3bf882fc30ff357c58d0b52a3acf416265"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "VA",
+      "totalcouponredemption": 15,
+      "totalcouponredemeedvalue": "19.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a067a7f46fe812ac0c4580995c77ced7397a9b1b"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "VT",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "0.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8544ce56031e212643eb397d95a5ffe46fbc10a0"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "WA",
+      "totalcouponredemption": 5,
+      "totalcouponredemeedvalue": "6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a3d11cc1ae2169558f0eacc96a66d26e03c2f68f"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "WI",
+      "totalcouponredemption": 23,
+      "totalcouponredemeedvalue": "41.05",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d1bb1baea698f860a01a9a4170fe5aa8bb0e0a52"
+    },
+    {
+      "medianame": "Handout Electronic Checkout",
+      "storestate": "WV",
+      "totalcouponredemption": 8,
+      "totalcouponredemeedvalue": "9",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "6a0d458d23608e481457c238da7b03c3f5a81f32"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "AL",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "ab315d2dbaa412e7f445ec460ba732e0b2f6b247"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "AZ",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "77553d24401233756480d5a7cb4521fcbb86810c"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "CA",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "4",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8b786e963809a8bd5f46bbf683a61f74c1d15a86"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "CO",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "befb4357b6f99114f9ec98a08af493f10de94a75"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "GA",
+      "totalcouponredemption": 3,
+      "totalcouponredemeedvalue": "9",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a579e4bded54270e3f138e5e20699e137a18c84f"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "IL",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "c41c733665959968c28ac6fd62b1097cc0864edb"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "NC",
+      "totalcouponredemption": 2,
+      "totalcouponredemeedvalue": "6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "cd9b9cc6d19f4b91af6162ff98867b4ca72fac83"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "PA",
+      "totalcouponredemption": 11,
+      "totalcouponredemeedvalue": "27",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "32edf402845783031972de710c985b9e721ac35c"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "SC",
+      "totalcouponredemption": 11,
+      "totalcouponredemeedvalue": "22",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "3ac3ca1f33b0a88e81891472f9275fb0df43904e"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "TX",
+      "totalcouponredemption": 2,
+      "totalcouponredemeedvalue": "6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d4a909348951a8cedfd31c7ed795538808f619ed"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "VA",
+      "totalcouponredemption": 4,
+      "totalcouponredemeedvalue": "12",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "5107a6e26783c485a1bb32135a91b8f2d20c8bbe"
+    },
+    {
+      "medianame": "Military",
+      "storestate": "WI",
+      "totalcouponredemption": 19,
+      "totalcouponredemeedvalue": "50",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "94011e8a7edb59e75f1535784d9b6fddaeaa521e"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "AE",
+      "totalcouponredemption": 8,
+      "totalcouponredemeedvalue": "3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8807650d6b5292a4a692a096e54c4edd04e5799a"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "AK",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "0.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "cbb250c7ef9391ba2d1358c1b36e702aee19916e"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "AL",
+      "totalcouponredemption": 466,
+      "totalcouponredemeedvalue": "173.1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a329329c0919cd32123ec7b009be15d3f3d3500d"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "AP",
+      "totalcouponredemption": 5,
+      "totalcouponredemeedvalue": "2.1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "27060e8e79f179acee27304819e3296330f916bb"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "AR",
+      "totalcouponredemption": 128,
+      "totalcouponredemeedvalue": "51",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "7064509c251b69e286ce3d73c973300251747559"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "AZ",
+      "totalcouponredemption": 90,
+      "totalcouponredemeedvalue": "35.05",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "5ca84aee0ff6aabdea861686c15645850a022f4c"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "CA",
+      "totalcouponredemption": 616,
+      "totalcouponredemeedvalue": "325.6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "23afbc6c044ce6ad2bafb43c82c8733be161f5c9"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "CO",
+      "totalcouponredemption": 62,
+      "totalcouponredemeedvalue": "23.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "5d16d1d2941214aefb253866bc0acbf879c03fc5"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "CT",
+      "totalcouponredemption": 102,
+      "totalcouponredemeedvalue": "40.3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "c39732283317cf7f1225b9201100edae6bc58feb"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "DE",
+      "totalcouponredemption": 100,
+      "totalcouponredemeedvalue": "43.1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "478b42e8d469f4838ca7924311acccbe96071267"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "FL",
+      "totalcouponredemption": 1146,
+      "totalcouponredemeedvalue": "454.35",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "3b54dd8d1a062bead84a13e42bf3c5de5c571653"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "GA",
+      "totalcouponredemption": 706,
+      "totalcouponredemeedvalue": "251.65",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d4d02da72dce5595b7956fe8a251134bd4d17eb7"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "HI",
+      "totalcouponredemption": 22,
+      "totalcouponredemeedvalue": "9.6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "58f61efe79e4247148c7042a5f1d6bacd8467370"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "IA",
+      "totalcouponredemption": 190,
+      "totalcouponredemeedvalue": "70.4",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e5b49a8c6fa3da4c3c5818833f226df94c6584fd"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "ID",
+      "totalcouponredemption": 43,
+      "totalcouponredemeedvalue": "15.95",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "184139b7a1fc6cd00ff9769c870f745a34da1214"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "IL",
+      "totalcouponredemption": 438,
+      "totalcouponredemeedvalue": "184.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e5f9f6141e9df9226e457681c53ae5d3e01af4c3"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "IN",
+      "totalcouponredemption": 330,
+      "totalcouponredemeedvalue": "131.05",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "dcbf17b1d0052f734ce0c5af7c566f3aa41e5cf5"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "KS",
+      "totalcouponredemption": 169,
+      "totalcouponredemeedvalue": "98.9",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "389b69352a11ae1ca3b6393b32827446a461c644"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "KY",
+      "totalcouponredemption": 154,
+      "totalcouponredemeedvalue": "63.85",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "414a482234ec0aca5f0310f31dce3afa3dacd4d9"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "LA",
+      "totalcouponredemption": 355,
+      "totalcouponredemeedvalue": "145.75",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "11cab5be9f3a5c82226c7e588d873c74ebde5c89"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "MA",
+      "totalcouponredemption": 185,
+      "totalcouponredemeedvalue": "72.8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "01f987dc26bcb2c7a597f9e309545afb172553dc"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "MD",
+      "totalcouponredemption": 521,
+      "totalcouponredemeedvalue": "214.4",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d1e2d4d3e144a6a3ba5cabbdb47e5648b224d621"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "ME",
+      "totalcouponredemption": 85,
+      "totalcouponredemeedvalue": "32.2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "06c4391af851a70c1419926bb59e49028ed4067d"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "MI",
+      "totalcouponredemption": 197,
+      "totalcouponredemeedvalue": "167.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "0100359d1a1c25f4a13601d5e032641e0976fd91"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "MN",
+      "totalcouponredemption": 137,
+      "totalcouponredemeedvalue": "52.95",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "3a4e15c110ebaabdb97e28dac9b0fc52af350d55"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "MO",
+      "totalcouponredemption": 339,
+      "totalcouponredemeedvalue": "133.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d765278abeebf65d1ac7822498a6b4b641572935"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "MS",
+      "totalcouponredemption": 108,
+      "totalcouponredemeedvalue": "40.85",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "9c6b84913851beb52eb8ba98c26d85350dfff2b5"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "MT",
+      "totalcouponredemption": 16,
+      "totalcouponredemeedvalue": "7.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "90b6c9c19413c00403fcda7c1ff01358f8c4e4a0"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "NC",
+      "totalcouponredemption": 261,
+      "totalcouponredemeedvalue": "95.35",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "f0bb84f502e207402d58a8c83fa2299bcf5da1de"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "ND",
+      "totalcouponredemption": 42,
+      "totalcouponredemeedvalue": "16.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "70f52866a8293686856633c2b8841e238684063a"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "NE",
+      "totalcouponredemption": 188,
+      "totalcouponredemeedvalue": "73.95",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "adbb797a86e8d2bce1f586c47bc7d1d07ecd836c"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "NH",
+      "totalcouponredemption": 51,
+      "totalcouponredemeedvalue": "19.15",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "9330326ec9b3571117463f187962693dfbb1a1de"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "NJ",
+      "totalcouponredemption": 197,
+      "totalcouponredemeedvalue": "70.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a38d2ebc8e693b59514bcc6a4327000fc7e191ce"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "NM",
+      "totalcouponredemption": 37,
+      "totalcouponredemeedvalue": "13.7",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "cbfb11332ba328dd443d7521bf8833cd1cee5602"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "NV",
+      "totalcouponredemption": 97,
+      "totalcouponredemeedvalue": "38.1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d537b650a81be25c4a988d540d581b50082d86b3"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "NY",
+      "totalcouponredemption": 897,
+      "totalcouponredemeedvalue": "346.6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "b8ffb9df660f5ac708f374ff5b4d50cd3f895ce8"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "OH",
+      "totalcouponredemption": 282,
+      "totalcouponredemeedvalue": "110.75",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "62fcce21327572dc2bcfb9286649cf7d4a410eb4"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "OK",
+      "totalcouponredemption": 190,
+      "totalcouponredemeedvalue": "73.4",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "3dd2a7c574aa7799e7a3c562d61ce20c2078c372"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "OR",
+      "totalcouponredemption": 53,
+      "totalcouponredemeedvalue": "21.45",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "219e8110f65b44ee51c48824c04e3606b8e666f9"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "PA",
+      "totalcouponredemption": 1107,
+      "totalcouponredemeedvalue": "398.8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8826b8087a540af29e17317acea316a84d1fd44f"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "PR",
+      "totalcouponredemption": 77,
+      "totalcouponredemeedvalue": "22.45",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "36fe2d5e43df2dd61d2e1357e64ed31d9eed8ec5"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "RI",
+      "totalcouponredemption": 13,
+      "totalcouponredemeedvalue": "6.45",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "99d21172c5120dc5ae5c371a1d9f9420f7e7e665"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "SC",
+      "totalcouponredemption": 288,
+      "totalcouponredemeedvalue": "126.7",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a6d6dcd2445e785b0a8b4a825f9cd9fee64d9f3c"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "SD",
+      "totalcouponredemption": 62,
+      "totalcouponredemeedvalue": "23.75",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "6fb68eedcde83c20f93349cca2d80f5ce37e0139"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "TN",
+      "totalcouponredemption": 449,
+      "totalcouponredemeedvalue": "170.35",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "7b7a5ef7c2a2497515b2474b047a6299554e44ec"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "TX",
+      "totalcouponredemption": 681,
+      "totalcouponredemeedvalue": "261.2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "5a0645a18deca38233431a48808a6fdaa0003b49"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "UT",
+      "totalcouponredemption": 78,
+      "totalcouponredemeedvalue": "32.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "ea37b8e9682d4a22dc4f3f3308f82bc4f47510d9"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "VA",
+      "totalcouponredemption": 307,
+      "totalcouponredemeedvalue": "118.1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8f596ec74af6a6e091b131ce28c5ec0bbe543d96"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "VT",
+      "totalcouponredemption": 59,
+      "totalcouponredemeedvalue": "21.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "0c34c9608addc376bf2e9254f39ce50e52e96558"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "WA",
+      "totalcouponredemption": 74,
+      "totalcouponredemeedvalue": "33.45",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "0744f080d8cd830d13a25d28549fbeb905efb7c3"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "WI",
+      "totalcouponredemption": 155,
+      "totalcouponredemeedvalue": "60.55",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "69b3371c162fa702121883c5091cb8bdccac6048"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "WV",
+      "totalcouponredemption": 57,
+      "totalcouponredemeedvalue": "24.3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "56ab17154ccd648a890e0eb81806dd37d5e956e4"
+    },
+    {
+      "medianame": "Print At Home",
+      "storestate": "WY",
+      "totalcouponredemption": 29,
+      "totalcouponredemeedvalue": "11.7",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "49ac18194388546ee820aa5eebd8a5c19c243396"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "AL",
+      "totalcouponredemption": 47,
+      "totalcouponredemeedvalue": "53.58",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a9f4588dca7dd718cb9b8666349e1d02d740b56b"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "AR",
+      "totalcouponredemption": 70,
+      "totalcouponredemeedvalue": "626.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "9e841fc996730aa3e271520e984ab88981c39e83"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "AZ",
+      "totalcouponredemption": 6,
+      "totalcouponredemeedvalue": "7",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "0398c3148feb17d0c9bbc3e8790937fab1c31d82"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "CA",
+      "totalcouponredemption": 185,
+      "totalcouponredemeedvalue": "266.13",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d96759a76440650522f8e1170e5bf304433004c8"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "CO",
+      "totalcouponredemption": 15,
+      "totalcouponredemeedvalue": "18.97",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "dcacf509d0a34e3c5ee287ca95d6cd485689c415"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "CT",
+      "totalcouponredemption": 18,
+      "totalcouponredemeedvalue": "16.6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "1ecd0696595f155f19f70eff4333edfe11baac53"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "DC",
+      "totalcouponredemption": 1,
+      "totalcouponredemeedvalue": "1",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "0a3dc4ac3a4bd746caf164d3f21c11b13d1fa8ea"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "DE",
+      "totalcouponredemption": 9,
+      "totalcouponredemeedvalue": "22.02",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "03498c5d5015dda103e213c1072328d2671aa182"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "FL",
+      "totalcouponredemption": 187,
+      "totalcouponredemeedvalue": "438.67",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "60cfc4c1f4612e8d25348b1ad00e683f098713c1"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "GA",
+      "totalcouponredemption": 166,
+      "totalcouponredemeedvalue": "195.49",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "05dbffc7228711aae1e73e5441dc9e43b6d06038"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "HI",
+      "totalcouponredemption": 11,
+      "totalcouponredemeedvalue": "8.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e5d54231bd5b0454e21d6fadcbeae489b0598359"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "IA",
+      "totalcouponredemption": 46,
+      "totalcouponredemeedvalue": "32",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "77cdd5791a0e2c6163e1b67ba5063d701927bd61"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "ID",
+      "totalcouponredemption": 20,
+      "totalcouponredemeedvalue": "27.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "3041e86e79418af9c252e13e8d43866b4becf722"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "IL",
+      "totalcouponredemption": 222,
+      "totalcouponredemeedvalue": "227.51",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a6e94ac1d33da72313b650b3daecdb05a5ed46e0"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "IN",
+      "totalcouponredemption": 200,
+      "totalcouponredemeedvalue": "319.8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "54a95ad298fff1b56df4e0ce0cf90fb2f6d23165"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "KS",
+      "totalcouponredemption": 28,
+      "totalcouponredemeedvalue": "66",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8ddd0e497bbe31d05110a30eb2880f766eb1009c"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "KY",
+      "totalcouponredemption": 35,
+      "totalcouponredemeedvalue": "70.44",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "3edd30d0603e2ea9d6ec52483fd9980be693a7e5"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "LA",
+      "totalcouponredemption": 98,
+      "totalcouponredemeedvalue": "153.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "60ad3e85c999b18b6041849b8b0fbdc98331fb3b"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "MA",
+      "totalcouponredemption": 29,
+      "totalcouponredemeedvalue": "26.05",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d0938c5df4d0aac630ec9f64db7a0d4c572e5adf"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "MD",
+      "totalcouponredemption": 40,
+      "totalcouponredemeedvalue": "55.2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "8936048239b8e51381bf517bde8383db1cc7a05f"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "ME",
+      "totalcouponredemption": 4,
+      "totalcouponredemeedvalue": "2.6",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "c0e68c400a992d218c1d83e3ecbb17495d886cc5"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "MI",
+      "totalcouponredemption": 141,
+      "totalcouponredemeedvalue": "276.3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "e004adecbc7abf1f7a7795ce9c4a92f5bc731bb7"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "MN",
+      "totalcouponredemption": 81,
+      "totalcouponredemeedvalue": "80.48",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a0ad7feede570980d43ea8e877b6792644124bdf"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "MO",
+      "totalcouponredemption": 68,
+      "totalcouponredemeedvalue": "115",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "69e2fef8144f75297bd04296c1c3be35e911b996"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "MS",
+      "totalcouponredemption": 44,
+      "totalcouponredemeedvalue": "48.75",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d48028ba7e2cee4b834cb58f769436e95bb8143c"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "MT",
+      "totalcouponredemption": 2,
+      "totalcouponredemeedvalue": "2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "2d293b715f33bb1f3fdc53745da04975caf5bae2"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "NC",
+      "totalcouponredemption": 233,
+      "totalcouponredemeedvalue": "280.97",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "d85f7dd2b73311f669f35eb84b8eeea2bf8f1bf0"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "ND",
+      "totalcouponredemption": 14,
+      "totalcouponredemeedvalue": "13.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "81f0d3ca321dee6d7d871a3255bfe89ddd4138a5"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "NE",
+      "totalcouponredemption": 15,
+      "totalcouponredemeedvalue": "12",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "ac58271b8285987fdeed36265fa5e2cdacd6d139"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "NH",
+      "totalcouponredemption": 5,
+      "totalcouponredemeedvalue": "10",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "1f3a77aa8edc5a973a727e4b1994c84f79e70e8b"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "NJ",
+      "totalcouponredemption": 94,
+      "totalcouponredemeedvalue": "233.15",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a824590220472f16500e9b544c475b4bd2178d2a"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "NM",
+      "totalcouponredemption": 2,
+      "totalcouponredemeedvalue": "2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "a4a88f8ff89d0b9fb8068d84d12f924aa9f7c7da"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "NV",
+      "totalcouponredemption": 5,
+      "totalcouponredemeedvalue": "5.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "fd4eb68c8978c293c8cd1d97d3e5662eb1fe002d"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "NY",
+      "totalcouponredemption": 153,
+      "totalcouponredemeedvalue": "219.58",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "0a1e2cd74257686eb00ab12e6ec15847b91e21fd"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "OH",
+      "totalcouponredemption": 118,
+      "totalcouponredemeedvalue": "173.87",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "bdef5fb83666db1df630ac76462fe32418c5f73b"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "OK",
+      "totalcouponredemption": 26,
+      "totalcouponredemeedvalue": "59.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "17b6bb88d6e66b74268e872fcd3e3e4635d2c9ec"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "OR",
+      "totalcouponredemption": 27,
+      "totalcouponredemeedvalue": "28.45",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "577aa8fd44ffbcb5bed2c4abc617a7fb7c8f4f52"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "PA",
+      "totalcouponredemption": 155,
+      "totalcouponredemeedvalue": "343.77",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "f85f4bc42f72cacd2fd72baca47732b0c58d20ee"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "PR",
+      "totalcouponredemption": 2,
+      "totalcouponredemeedvalue": "2",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "da34d4db386fc1df4ff09981d7233f1991fae19a"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "RI",
+      "totalcouponredemption": 18,
+      "totalcouponredemeedvalue": "56",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "b2ed63294fe947e54b8eb288d8a1499f3995bbed"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "SC",
+      "totalcouponredemption": 34,
+      "totalcouponredemeedvalue": "57.3",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "1933acda1cf06af9e41799b8dfb65d0ba999026f"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "SD",
+      "totalcouponredemption": 9,
+      "totalcouponredemeedvalue": "8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "23382b9cd86b9f005a6787b079431d7bdbece3a1"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "TN",
+      "totalcouponredemption": 43,
+      "totalcouponredemeedvalue": "74.8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "7c2cc41618f16fd5747ef8a06e14ce62af95e651"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "TX",
+      "totalcouponredemption": 240,
+      "totalcouponredemeedvalue": "322.26",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "5b89f45b50f13d0fdf1b0c841ef52937890bf59a"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "UT",
+      "totalcouponredemption": 6,
+      "totalcouponredemeedvalue": "3.4",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "1f9c2507e9977a42b72dbfe10b446005362b3a24"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "VA",
+      "totalcouponredemption": 52,
+      "totalcouponredemeedvalue": "51.8",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "09f0595ba0fe5059a60c84c2ff6bf9d2d7ab9992"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "VT",
+      "totalcouponredemption": 2,
+      "totalcouponredemeedvalue": "19",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "1e1683b2a890be8fc99ed59f1503e48721cb6f5b"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "WA",
+      "totalcouponredemption": 29,
+      "totalcouponredemeedvalue": "27.5",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "acc5475ac8b10cae036f8a8ab8afb65910b1d6b0"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "WI",
+      "totalcouponredemption": 60,
+      "totalcouponredemeedvalue": "83",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "6bc388b0ea8ebcd70aa48279974cb5f66f6a1851"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "WV",
+      "totalcouponredemption": 22,
+      "totalcouponredemeedvalue": "74.9",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "ca9d4b14d5bb6785d5f2f9124262a85635bda5be"
+    },
+    {
+      "medianame": "Unknown",
+      "storestate": "WY",
+      "totalcouponredemption": 4,
+      "totalcouponredemeedvalue": "4.25",
+      "_created": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_updated": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "_etag": "fd36f25dc320525de9221817afd87f8b12b4b953"
+    }
+  ],
+  "_links": {
+    "parent": {
+      "title": "home",
+      "href": "/"
+    },
+    "self": {
+      "title": "tpgc1",
+      "href": "tpgc1?max_results=0"
+    }
+  }
+}
